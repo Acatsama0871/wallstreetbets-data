@@ -1,0 +1,484 @@
+,id,title,num_comments,text,link,subreddit,subreddit_id
+0,kzocqo,GME: What is actually happening this week?,13,"Yes, there were a lot of DDs on GME this past Friday/etc. However, a lot of them were bears disguised as bulls. Too much misinformation floating around.
+
+One ever suggested buying shares on margin, and which broker was the best to do so.
+
+I also read a more unbiased DD saying that GME will likely go red next week as the shorts continue to double down for a last-ditch effort. And that the following week will be deep green.
+
+So what's actually happening?",https://www.reddit.com/r/wallstreetbets/comments/kzocqo/gme_what_is_actually_happening_this_week/,wallstreetbets,t5_2th52
+1,kzotqk,How market makers consistently win selling weekly options - GME,46,"GME long share holder here and buying more next week as well :) I notice many on WSB are over buying OTM weekly calls and I want to explain why retail investors consistently lose on this.
+
+1) As of last friday's close, a GME $36 1/22/21 call costs $460 while an April $40 call costs $900. Let's assume the next huge GME up move happens one random week between now and April 16th. It will cost on average about $2750 buying one weekly call option every week to hit a big win while it only costs $900 to buy one April call. Buying a weekly call after a volatility spike makes you a 3:1 under dog right off the bat. 
+
+2) Institutions own a lot of gamestop shares and market makers can manipulate implied volatility and price in the short term as they please to protect their delta neutral options portfolio. It's common knowledge that robinhood poors rarely exercise OTM weekly options and market makers take full advantage of this.
+
+&amp;#x200B;
+
+https://preview.redd.it/cbruqv8tv0c61.png?width=748&amp;format=png&amp;auto=webp&amp;s=2584c812d93e05f8457eff513ced85f216464d07
+
+The first hour of open on GME on 1/13 the market maker's realized a surge of buyer's were entering and unusual buying volume was occurring (anyone have info on why btw? seemed kinda random to me). To adjust for this, they excessively increased implied volatility on the weekly options so the lagging FOMO buyers were paying a 3-4x+ premium for the same calls. Eventually implied volatility got so extended that people start selling. This allows the market maker selling the options to maintain delta neutral regardless of how many more people buy weekly options, because the next person to buy the call is paying a ridiculous premium compared to the previous buyers.
+
+This being so, eventually the rate of theta decay will exceed the rate of incoming buyers, and the market maker wins.
+
+TLDR: buy GME shares or April+ calls instead of weekly OTM calls!",https://www.reddit.com/r/wallstreetbets/comments/kzotqk/how_market_makers_consistently_win_selling_weekly/,wallstreetbets,t5_2th52
+2,kzp7iv,GME starts strong in Europe this week! +5%,0,,https://www.reddit.com/r/wallstreetbets/comments/kzp7iv/gme_starts_strong_in_europe_this_week_5/,wallstreetbets,t5_2th52
+3,kzpahh,GME is nearly +7% up on Monday. Greetings from Europe.,1,,https://www.reddit.com/r/wallstreetbets/comments/kzpahh/gme_is_nearly_7_up_on_monday_greetings_from_europe/,wallstreetbets,t5_2th52
+4,kzpcuy,GME is nearly 10% up on Monday. Greetings from Europe.,538,,https://www.reddit.com/r/wallstreetbets/comments/kzpcuy/gme_is_nearly_10_up_on_monday_greetings_from/,wallstreetbets,t5_2th52
+5,kzpeok,$GME is fuelling up In German pre Market! 🚀 Will keep this updated during the day!,144,,https://www.reddit.com/r/wallstreetbets/comments/kzpeok/gme_is_fuelling_up_in_german_pre_market_will_keep/,wallstreetbets,t5_2th52
+6,kzphxt,GME DD: Fair value is at least $74/share. Conservative $2.3bn in e-commerce sales in 2022. OPEN FOR DD 🚀🚀🚀🚀🚀 [Warning: LOTS OF OC],223,"I’ll start by admitting I was originally going to post the below analysis to a certain **S**tock **A**nalysis website that will not be named. However, I decided to forgo the $42 in CPM revenue and instead take my talents to WSB since I’ve been having so much fun shitposting about GME with you guys the past month. I also think this might be the first Sum of the Parts (“SOTP”) analysis that has even been posted to WSB. 
+
+Now I know most of you can hardly read, let alone understand revenue multiples. But if you stick with me, you’re in for a bullish treat. Long story short, if we apply **even the** **most conservative** forward revenue projections and EV/revenue multiple to GameStop’s e-commerce business, we arrive at a fair value per share of $74.05. Additionally, this fair value **DOES NOT** factor in the intrinsic value from a potential short squeeze that is an added ""cherry on top"" when you buy GME shares.
+
+**SKIP TO THE BOTTOM FOR A TLDR** 🚀🚀🚀🚀🚀
+
+# Full analysis behind the $74/share fair value
+
+When reading the many bearish articles that have carpet bombed  investment websites and now even WSB, one thing is apparent. The authors want to talk about ANYTHING BUT valuation. They would rather base their thesis on “BlOckBuSTer” instead of calmly and rationally analyzing forward revenue streams and applying a fair multiple based on public comparable companies.
+
+I believe that is likely the reason we have not seen a “SOTP” (Sum of the Parts) analysis for GameStop yet for broad consumption. Not even the Wall Street analysts who are being paid piles to analyze this company are performing this analysis-- they would rather just double down on their $1.60 price target than do the work. Preforming a SOTP analysis on GameStop is critical because it is the only way to give the Company credit for the **significant** **e-commerce revenues** **it is achieving** and the rich multiple that e-commerce sales demand from the market. “*Multiple expansion is a hell of a drug*.” - Michael Burry
+
+# Modeling revenue projections
+
+Before we can value GameStop on a forward basis, we must reasonably arrive at a forward revenue assumption and the corresponding percentage breakdown between e-commerce and brick and mortar sales.
+
+We can start with GME’s recently released 9-week holiday sales figures for the period ending January 2nd, 2021. By examining the delta between last year’s 9-week revenue figures and the subsequent full quarter figures, we can reasonably arrive at an assumption of $2.1bn of revenue for the fiscal quarter ending in February 2021. Management also publicly stated that 34% of holiday sales were e-commerce. For this analysis, we will apply that percentage to the full quarter estimate.
+
+*Processing img cdy97vncf1c61...*
+
+The next step is to build on the Q4 assumption to model out the next fiscal year through Q4’2022E (the fiscal quarter ending February 2022). Luckily, we have a great proxy to achieve this—we can utilize GameStop’s quarter-on-quarter revenue growth the 2013 console launch. We can also reasonably assume an expansion from 34% to 40% e-commerce sales over the next four quarters as Ryan Cohen executes his strategic vision. 
+
+[Source: GME 10-Q filings, author assumptions](https://preview.redd.it/fax5gecjf1c61.jpg?width=1866&amp;format=pjpg&amp;auto=webp&amp;s=7b59f50aad048decbbc68450c68df3bef15c9640)
+
+We can use the above quarterly figures to inform an annual projection model that will be the foundation of our SOTP analysis. 5% revenue growth is a conservative estimate based on actual figures from the 2013 console cycle and the uptick in demand for both new and used consoles and games that followed the launch of the new consoles.
+
+[Source: GME 10-K filings, author assumptions](https://preview.redd.it/k26jmdinf1c61.jpg?width=1544&amp;format=pjpg&amp;auto=webp&amp;s=c960121888b8bb0b60074bdeaac898a568e17202)
+
+# Determining and applying an e-commerce revenue multiple based on peer comparables
+
+Now that we have a reasonable estimate for both e-commerce and B&amp;M revenue for GameStop’s fiscal year ending February 1, 2023, we need to apply a multiple to both revenue streams to bridge to enterprise value. Upon review of a set of public internet retail peers, we find a median EV/CY2022E revenue multiple of 3.2x.   
+
+[Source: Factset ](https://preview.redd.it/8c0i8pqrf1c61.jpg?width=997&amp;format=pjpg&amp;auto=webp&amp;s=85d7ca0a194c580c6e540452a0e646e6eba77ecb)
+
+For the purpose of my SOTP analysis, I will apply only a **2.0x revenue multiple to e-commerce sales, which is highly conservative.** It goes without saying that if Ryan Cohen were able to achieve a e-commerce revenue multiple equal to Chewy (the company he founded!) the long-term growth in GameStop’s share price would be enormous. Using this conservative e-commerce revenue multiple of 2.0x and applying a de minimis multiple of 0.2x to GameStop’s legacy brick and mortar business, **we arrive at a fair value per share of $74.05 on a SOTP basis.** 
+
+ 
+
+*Processing img b4asaomuf1c61...*
+
+For fun, if we drop Chewy’s e-commerce multiple into the above table, we get a fair value per share of $151.76. 
+
+[Source: GME public filings, author assumptions ](https://preview.redd.it/u06o5uc0g1c61.jpg?width=855&amp;format=pjpg&amp;auto=webp&amp;s=a3fec1ebacbb84e7ed48a98406ec5be63acba828)
+
+The upside to current implied by this analysis is significant, but based on the market’s reaction to Ryan Cohen’s activism so far, a 100%+ gain on a re-rating of projected e-commerce revenues doesn’t seem so far-fetched. Clearly the stock has made a run since its lows in April of last year, but the market still has not fully priced in GameStop’s present and future e-commerce revenues at a fair multiple relative to peers.  
+
+*Processing img 1uuw4yf2g1c61...*
+
+Everyone is tunnel visioning on if the short squeeze has squoze yet, and/or to what extent shorts have covered so far. But after doing their DD on a SOTP basis, GME holders can sleep well at night knowing that there is still 100%+ upside once GME’s e-commerce revs. are fairly valued by the market.
+
+# TLDR
+
+* GameStop's growing e-commerce revenues (**34% of holiday sales!**) deserve a far higher multiple than the company's legacy brick and mortar business.
+* Comparable internet retail companies trade at median EV/CY'22E revenues of 3.2x. **Chewy trades at 4.4x EV CY’22E revenues**
+* Even with the recent share price run, **GameStop still only trades at 0.4x 2022E revenues**, of which the revenues will likely be 40% e-commerce at a minimum.
+* **SOTP valuation analysis indicates a fair value of $74.05 per share. At the same e-commerce revenue multiple as Chewy, GME’s fair value is $151.76 per share**
+* 🚀🚀🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/kzphxt/gme_dd_fair_value_is_at_least_74share/,wallstreetbets,t5_2th52
+7,kzpk70,Will it be to late to buy $GME at market open on Tuesday??,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzpk70/will_it_be_to_late_to_buy_gme_at_market_open_on/,wallstreetbets,t5_2th52
+8,kzpo1m,GME UP 8% premarket 🚀🚀🚀,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzpo1m/gme_up_8_premarket/,wallstreetbets,t5_2th52
+9,kzpp97,Shoutout WSB for being too enthusiastic about GME and BB to ignore,2,,https://www.reddit.com/r/wallstreetbets/comments/kzpp97/shoutout_wsb_for_being_too_enthusiastic_about_gme/,wallstreetbets,t5_2th52
+10,kzppqo,&gt;10% Price increase in German stock exchange 🚀🚀🚀GME,93,,https://www.reddit.com/r/wallstreetbets/comments/kzppqo/10_price_increase_in_german_stock_exchange_gme/,wallstreetbets,t5_2th52
+11,kzpr5g,Can we create a bot to count up how many shares of GME everyone in this sub holds?,11,"I have no idea what flair to use, help me :,(. 
+
+So I read this post here- https://www.reddit.com/r/wallstreetbets/comments/kzbi6x/is_wsb_really_in_control_a_gme_thought_experiment/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+I was curious to see if it was possible if someone could create a bot that can count all the GME shares that everyone holds if everyone was able to post the number of shares on the comment thread of a post. 
+
+Side note Everyone get 3 ppl around them to buy 1-3 shares of GME to reduce float available. 
+And tell em to set a sell order at $1000
+
+TLDR- GME 🚀🚀🚀  some smart guy help us count GME shares owned by WSB",https://www.reddit.com/r/wallstreetbets/comments/kzpr5g/can_we_create_a_bot_to_count_up_how_many_shares/,wallstreetbets,t5_2th52
+12,kzpuvv,ITT: GME positions and what are you buying Tuesday 🚀,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzpuvv/itt_gme_positions_and_what_are_you_buying_tuesday/,wallstreetbets,t5_2th52
+13,kzpw95,$GME dreams,0,"Diversifying has made me a little money but all in $GME will give me a legacy
+
+To be a part of something bigger than me.
+
+To be a part of history.
+
+The retailers who busted a billionaire.
+
+I'd love for nothing more knowing the CIO of Melvin had to get a day job and sell his yacht because I kicked him straight in the nuts.
+
+An army of retards lined up. One by one kicking this fuckboi straight in the nut sack.
+
+This is beyond making a buck this is history.
+
+A story as old as time itself.
+
+The ordinary looked over and neglected guy who finally made a stand and fucked their oppressors so hard that their kids went from Havard shoe-ins to Boston University hopefuls at fucking best!
+
+I know this is a straight-up shitpost and I might get banned but I couldn't keep it to myself. 
+
+Godspeed retards!",https://www.reddit.com/r/wallstreetbets/comments/kzpw95/gme_dreams/,wallstreetbets,t5_2th52
+14,kzpwj2,What happens if GME doesn't rocket?,47,"Not trying to be a bear, but I have a bad feeling about GME for anyone trying to get in now. WSB has a lot of users, but there are some giant players out there that can flip everything on its heard with a single decision. Truly hope it all works out, but I'm sitting this one out. Something doesn't sit right. Sure, a deal with Microsoft + the Chewy Ceo with ownership and a board seat.... but also talks of turning store into brick and mortar locations to sell gaming computers? Huge inventory costs, huge operating costs, and extremely difficult to compete. There's the angle of people wanting help with builds - I don't see that being a big need - it's not 1985 - an 8 year old can research gaming builds online/forums and figure out what they need and how to put it together.
+
+Again, I hope it works out for everybody, just not my YOLO.",https://www.reddit.com/r/wallstreetbets/comments/kzpwj2/what_happens_if_gme_doesnt_rocket/,wallstreetbets,t5_2th52
+15,kzpwsu,GME BULLS,7,,https://www.reddit.com/r/wallstreetbets/comments/kzpwsu/gme_bulls/,wallstreetbets,t5_2th52
+16,kzq1zo,GME TO MOON 🚀🚀🚀 (EU is Trading today),183,,https://www.reddit.com/r/wallstreetbets/comments/kzq1zo/gme_to_moon_eu_is_trading_today/,wallstreetbets,t5_2th52
+17,kzq2mk,Is it now too late to buy into GME and BB?,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzq2mk/is_it_now_too_late_to_buy_into_gme_and_bb/,wallstreetbets,t5_2th52
+18,kzq34q,Am I too late? (GME),42,"I am 100% a bandwagon-er. Call me out, I don’t care, but if there’s money to be made I want some of it. 
+
+If I were to place a buy at market price, would the stock shoot up before the market opens? Have I already lost my opportunity to buy GME? Or is there still hope? I use robinhood so I assume it’s probably slower at making a buy than other platforms.",https://www.reddit.com/r/wallstreetbets/comments/kzq34q/am_i_too_late_gme/,wallstreetbets,t5_2th52
+19,kzq4ux,Markets are open here in Europe. Ignore my poverty but THE SQUEEZE DON'T STOP 🚀 🚀🚀🚀 🚀 🚀 🚀 GME Mars when? 🥺 👉👈,0,,https://www.reddit.com/r/wallstreetbets/comments/kzq4ux/markets_are_open_here_in_europe_ignore_my_poverty/,wallstreetbets,t5_2th52
+20,kzqbgv,Is this when GME puts are expiring?? 🚀🚀🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/kzqbgv/is_this_when_gme_puts_are_expiring/,wallstreetbets,t5_2th52
+21,kzqphp,explain calls like i’m 5?,36,"So i opened a robinhood account about a week ago. seeing the gain porn in this sub was my inspiration (red flag !) 
+
+i’ve been buying shares on various companies getting the gist of everything , im mostly in the green lately and i’m currently balls deep with 450 GME shares and impatiently waiting for markets to open 
+
+but i see alot of people on here talking about buying calls , i see the option on robinhood but tbh it all just seems like a fucking foreign language to me and i don’t want to miss out on gains 
+
+so can someone explain to me how calls work step by step in simple terms like i’m a fucking toddler and if i should buy those instead of shares thanks",https://www.reddit.com/r/wallstreetbets/comments/kzqphp/explain_calls_like_im_5/,wallstreetbets,t5_2th52
+22,kzqpys,This subs reaction when someone says they’ve traded their entire portfolio for $GME,0,,https://www.reddit.com/r/wallstreetbets/comments/kzqpys/this_subs_reaction_when_someone_says_theyve/,wallstreetbets,t5_2th52
+23,kzqqk0,$GME up 16%,2,,https://www.reddit.com/r/wallstreetbets/comments/kzqqk0/gme_up_16/,wallstreetbets,t5_2th52
+24,kzqu2s,ON THE EVE OF BATTLE...,12,"I come before you on this night, with messages profound. A statement for degenerates and autists gathered ‘round. For I am not a general, a mere presence among the crowd. A voice among the echoes, yet cacophony grows loud. To those of us with holdings grand and tendies growing large, I speak to you in earnestness and give to you this charge:
+
+**HOLD THE LINE.**
+
+To comrades that are joining us, I welcome you with heart. For each and every one of us has done their steadfast part. But now we face a daunting task, their pockets running deep. For if they drive us downward, our promise we must keep. Their margin calls come soon enough, and patience is your friend. To you I shout across the front, we’re in it ‘til the end!
+
+**HOLD THE LINE.**
+
+For paper-handed cucks beware - your efforts be in vain. And when you sell, your brothers weep, inflicting them max pain. Where Melvins short and Boomers lurk, 🌈🐻are growing cold. For we are diamond-handed bulls whose cards will never fold. And on this eve of battle let our thunder steady roll. For in the morning *lightning strikes* and takes its mighty toll!
+
+**HOLD THE LINE.**
+
+At dawn we mount our largest surge, we raise our battle cries. We meet them on the battlefield where ashes fall and Phoenix rise. With matters such as life and death, the latter they must choose. And when they trigger limit sells, their capital they lose. So strap in tight, gear up for WAR! The coaster’s on it’s ride. And once again with fervor more, I sound out far and wide:
+
+**HOLD THE LINE.**
+
+Now so more than ever, your duties must show cause. Hold your shares with life and limb - *they pry them from your claws!* For **WE** are firmly in command, this ship it’s charted course. The stars are well within our grasp, they reckon with ***OUR*** force. Where on the fields of strife we fight, let nothing you dismay. By Cohen’s hand we muster on, we chant ‘til light of day!
+
+#HOLD THE LINE!
+
+**HOLD THE LINE!**
+**HOLD THE LINE!**
+**UNTIL 420.69**
+**WSB SHALL HOLD THE LINE!**
+
+🥜 🚀 💎🙌
+
+TLDR: GME SHARES. ***HOLD THE LINE!***",https://www.reddit.com/r/wallstreetbets/comments/kzqu2s/on_the_eve_of_battle/,wallstreetbets,t5_2th52
+25,kzqufw,$GME short Interest Dropped ALMOST VERY VERY LOW !!! --&gt; Think Before Yolo,35,,https://www.reddit.com/r/wallstreetbets/comments/kzqufw/gme_short_interest_dropped_almost_very_very_low/,wallstreetbets,t5_2th52
+26,kzqzca,ALERT FOR GME!!,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzqzca/alert_for_gme/,wallstreetbets,t5_2th52
+27,kzr20j,GME Gang trying to decipher these RC tweets,0,,https://www.reddit.com/r/wallstreetbets/comments/kzr20j/gme_gang_trying_to_decipher_these_rc_tweets/,wallstreetbets,t5_2th52
+28,kzr3wk,All in gme gang! (Happy mlk day!),45,,https://www.reddit.com/r/wallstreetbets/comments/kzr3wk/all_in_gme_gang_happy_mlk_day/,wallstreetbets,t5_2th52
+29,kzr6fq,Buy GME from Europe.,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzr6fq/buy_gme_from_europe/,wallstreetbets,t5_2th52
+30,kzrcgr,Kjetill Stjerne is TRULY one of US!! $GME 120 LEGO,7,,https://www.reddit.com/r/wallstreetbets/comments/kzrcgr/kjetill_stjerne_is_truly_one_of_us_gme_120_lego/,wallstreetbets,t5_2th52
+31,kzrih8,ON THE EVE OF BATTLE AGAINST GME SHORTS...,32,"I come before you on this night, with messages profound. A statement for degenerates and autists gathered ‘round. For I am not a general, a mere presence among the crowd. A voice among the echoes, yet cacophony grows loud. To those of us with holdings grand and tendies growing large, I speak to you in earnestness and give to you this charge:
+
+**HOLD THE LINE.**
+
+To comrades that are joining us, I welcome you with heart. For each and every one of us has done their steadfast part. But now we face a daunting task, their pockets running deep. For if they drive us downward, our promise we must keep. Their margin calls come soon enough, and patience is your friend. To you I shout across the front, we’re in it ‘til the end!
+
+**HOLD THE LINE.**
+
+For paper-handed cucks beware - your efforts be in vain. And when you sell, your brothers weep, inflicting them max pain. Where Melvins short and Boomers lurk, 🌈🐻are growing cold. For we are diamond-handed bulls whose cards will never fold. And on this eve of battle let our thunder steady roll. For in the morning *lightning strikes* and takes its mighty toll!
+
+**HOLD THE LINE.**
+
+At dawn we mount our largest surge, we raise our battle cries. We meet them on the battlefield where ashes fall and Phoenix rise. With matters such as life and death, the latter they must choose. And when they trigger limit sells, their capital they lose. So strap in tight, gear up for WAR! The coaster’s on it’s ride. And once again with fervor more, I sound out far and wide:
+
+**HOLD THE LINE.**
+
+Now so more than ever, your duties must show cause. Hold your shares with life and limb - *they pry them from your claws!* For **WE** are firmly in command, this ship it’s charted course. The stars are well within our grasp, they reckon with ***OUR*** force. Where on the fields of strife we fight, let nothing you dismay. By Cohen’s hand we muster on, we chant ‘til light of day!
+
+#HOLD THE LINE!
+
+**HOLD THE LINE!**
+**HOLD THE LINE!**
+**UNTIL OUR DIAMOND HANDS CAN’T SHINE**
+**WSB SHALL HOLD THE LINE!**
+
+🥜 🚀 💎🙌
+
+TLDR: GME SHARES. ***HOLD THE LINE!***
+
+Edit: posting early for traction. 🚀🚀🚀
+
+Edit 2: removed any specific price target as that goes against the rules. Also maybe shitpost this?",https://www.reddit.com/r/wallstreetbets/comments/kzrih8/on_the_eve_of_battle_against_gme_shorts/,wallstreetbets,t5_2th52
+32,kzrpcb,"/u/DeepFuckingValue, please consider filing a GME proxy contest :) 🚀",7,"I'm hoping a proxy contest will mean share recall, short squeeze, and the most epic YOLO update ever 🚀🚀🚀 Yes I know it will cost some money, but it can be done at a fraction of your gains so far. If you pull it off, this story will be in the future textbooks on value investing, shareholding activism, and internet culture ! And if you manage to win a seat on BOD, hey, what's wrong with that ?",https://www.reddit.com/r/wallstreetbets/comments/kzrpcb/udeepfuckingvalue_please_consider_filing_a_gme/,wallstreetbets,t5_2th52
+33,kzrsko,GME Stupid german Money reporting im,104,"My fellow retards,
+
+after all these disappointing years finally germans doing what they supposed to do: 
+
+I went in the office. Took all returnable coke bottles from my employer. Brought them to Aldi and bought GME in an ultra narrow market. 
+
+I am already 5 % down BUT you retards in the US are currently 10 % up compared to friday. So  i am finally doing my part.
+
+For confirmation bias: I am 100 % convinced we will fuck Melvin (😈) in the ass. 
+
+Diamond Hands: 💎 🙌
+
+Rockets:🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/kzrsko/gme_stupid_german_money_reporting_im/,wallstreetbets,t5_2th52
+34,kzrwbv,Bank just approved my GME loan for 10k🚀🚀🚀,281,"I know I know, don't do that! It's fine guys. I've been putting in $750 every two weeks anyway, so now I'll just put 10k upfront and pay it back over 3 years. I'll still be able to put $575 in ever two weeks too!  
+
+
+I'll be using all of my debt capital and most of my original capital on shares and only about 3k in calls. 21k in total. Can't go tits up!
+
+ 🚀🚀🚀🚀🚀🚀🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/kzrwbv/bank_just_approved_my_gme_loan_for_10k/,wallstreetbets,t5_2th52
+35,kzrxvu,Here's my quick (af) research on GME squeeze vs VW squeeze - projected to Valhalla?,44,"So, I've seen lots of high quality DD in the last 2 weeks, thank you, autists.  
+
+
+One thing I've never seen (it may have been included in some peoples DD or comments on other posts but I have not come across it. This is what I found in comparison with the VW ""infinity squeeze"":  
+
+
+&gt;Prior to October 2008, Porsche alone had already controlled 30% of VWs shares.  Next, the government fund of Lower Saxony (the home province of VW in Germany) owned an additional 20% of VW as a strategic stake.  
+&gt;  
+&gt;In addition, various index funds owned around 5% of VW due to VWs large weighting in the DAX index.  These index funds were required to hold VW in proportion to its weight in the DAX, such that they would not be able to sell simply due to changes in the price of VW.  Volkswagen alone made up 17% of the DAX index at the time.  
+&gt;  
+&gt;Looking at the above, it is clear that heading into October of 2008, around 55% of VW shares were already **unavailable** in the market for any realistic purposes.  As a result, when Porsche increased its stake by an additional 44%, it meant that the true available float went down from 45% of outstanding shares to around just 1% of outstanding shares.  ***Suddenly the seemingly “low” short interest of 12.8% turned in to a massive supply and demand imbalance.***  Millions of shares needed to be bought immediately even though there were simply no shares available to be sold.
+
+[https://moxreports.com/vw-infinity-squeeze/](https://moxreports.com/vw-infinity-squeeze/)  
+Third paragraph is the money shot, other two for context.
+
+&amp;#x200B;
+
+I found another article somewhere that gave the same 12.8% figure (i forgot what it was and honestly cbf searching again for reference).  
+And what's the percentage of GME currently? (time of writing is Monday 8:43pm in South Australia) - 138.08% of float, or 71.2M (I believe it is actually closer to 79M from another comment I read on another post.)  
+
+
+  
+Discussion time:  
+
+
+Am I retarded and reading this wrong? I dunno. But I hadn't seen anyone talking about the VW short % of float so I did some smol digging.  
+Personally I think when this thing hits, if it is an instant spike, $420.69 as hilarious as it fucking would be to sell the shorts their shares back to them, is simply scratching the surface of this. Technically, it should be going nuclear, looking at short interest and comparing to the VW squeeze.  
+
+
+Food for thought - would be interested to hear your opinions on this.  
+Also, I took Wednesday and Thursday off of work so I can stay up and watch this rocket go interstellar with you retards.  
+God speed  ladies and gentlemen",https://www.reddit.com/r/wallstreetbets/comments/kzrxvu/heres_my_quick_af_research_on_gme_squeeze_vs_vw/,wallstreetbets,t5_2th52
+36,kzs2o0,Why we buy GME again?,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzs2o0/why_we_buy_gme_again/,wallstreetbets,t5_2th52
+37,kzs2oi,To all the guys putting their life savings on GME weeklies,94,,https://www.reddit.com/r/wallstreetbets/comments/kzs2oi/to_all_the_guys_putting_their_life_savings_on_gme/,wallstreetbets,t5_2th52
+38,kzsdge,Buy GME in UK?,2,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzsdge/buy_gme_in_uk/,wallstreetbets,t5_2th52
+39,kzsfw1,This is the next GME my little autists. You shall invest! Rocket is about to launch...🎉,13,,https://www.reddit.com/r/wallstreetbets/comments/kzsfw1/this_is_the_next_gme_my_little_autists_you_shall/,wallstreetbets,t5_2th52
+40,kzsfx9,$GME - Melvin/short bots on Twitter? Interesting...Joined January ‘21,22,,https://www.reddit.com/r/wallstreetbets/comments/kzsfx9/gme_melvinshort_bots_on_twitter_interestingjoined/,wallstreetbets,t5_2th52
+41,kzsq6c,How to increase GME &amp; PLTR tendies (Ritual Valhalla),4," 
+
+1. Go to: [https://toiletface.co.uk/product/personalised-toilet-paper/](https://toiletface.co.uk/product/personalised-toilet-paper/)
+2. Upload Citron logo: [https://dealbreaker.com/.image/t\_share/MTYxMjc3MzIyNTM1NTc3MDc3/wy-edqo5.png](https://dealbreaker.com/.image/t_share/MTYxMjc3MzIyNTM1NTc3MDc3/wy-edqo5.png)
+3. Upload Melvin logo: [https://melvincapital.com/melvinlogo.png](https://melvincapital.com/melvinlogo.png)
+4. Press order
+
+I would do it myself but shipping is 20gbp lol since I'm not in the Empire, if you live in the Empire it's only 3gbp, so to all our imperial allies, do your part, now!",https://www.reddit.com/r/wallstreetbets/comments/kzsq6c/how_to_increase_gme_pltr_tendies_ritual_valhalla/,wallstreetbets,t5_2th52
+42,kzssd0,How much GME stock do you have?,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzssd0/how_much_gme_stock_do_you_have/,wallstreetbets,t5_2th52
+43,kzssl7,Raise your sell price for GME,3,"I hear many people say the price will reach 420.69 but the problem is as everybody says in their DD WE DECIDE WHAT THE PRICE IS. Seriously GME can easily pass 420.69. I don’t believe it will reach more than 1000 but you guys should definitely raise your sell price. I believe most people here set their sell limit to 420.69 because of the DD but once it hits this price it will drop again because all sell orders kick in. Seriously I believe we can push this easily to 694.20 or even a bit more than that. Don’t get too comfortable with 1000 %. That’s huge I know but you will hate yourself if you cash out too early. Raise your sell price. We can grow way beyond 420.69.
+
+TLDR - Don’t sell at 420.69. It will grow more than that. Be patient.
+
+For all the others who can’t read here are some rockets
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/kzssl7/raise_your_sell_price_for_gme/,wallstreetbets,t5_2th52
+44,kzsw5u,After you take profits from GME short squeeze,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzsw5u/after_you_take_profits_from_gme_short_squeeze/,wallstreetbets,t5_2th52
+45,kzsz8j,"GME: You Wouldn’t Download a PS5, Would You?",21,"Of course I fucking would, but as of 6:18AM EST I’m seeing that Twitter shills are trying to compare Blockbuster, to GameStop. Here’s how this is flawed:
+
+Blockbuster, for those who are too young to have ever rented games from them, was a retail chain that specialized in MEDIA rentals. Keep that in mind. Media could be a game, or a movie, movies being the primary driver with games being the secondary source. You young kids, imagine a time when your internet was considered fast at ~356kb/s because you lived in NYC and had access to DSL (not the kind of DSL your girl showed me). Your friends were stuck on Dial Up, and you would use message boards and AOL Instant Messenger, pissing your parents off with the monthly bills for data usage.
+
+Blockbuster was needed for those who only had a bit of allowance to spend on a game, but didn’t know wtf games were out there except for game reviews. Who trusted reviews to preorder Cyberpunked 2077? I certainly did, but for the same price as a digital download, I got the OST on CD (bangs in the car’s CD player), a box I can display as part of the collection, and a sick Samurai necklace I use as garlic to vampires who don’t understand my style.
+
+It goes beyond this. Blockbuster failed because the CORE BUSINESS (movie rentals) was eventually gone when people could simply download 99% of the store (including emulators for games they rented and owned physical copies of, scratched to hell).
+
+There was no need for them. But do you want, or need a PS5? When your wife comes over knowing you have a badass gaming setup and two controllers, would I make her return a cute plushie she got me locally when she didn’t even mean to buy it, but thought of me? How about the kids who have rich parents who tug them in and walk out with a bunch of niche but official memorabilia?
+
+Now here comes someone who’s got kids and can’t afford any of this shit. They wistfully walk around the store, and spot the used case. $130 for a 3DS used? Better than the jack shit my kids have... you got any used games for this?
+
+Here comes Richie Rich, just wants a new game and has no time for his old 3DS. Poor dad gets a bargain, Richie Rich doesn’t give a shit as long as he gets a discount on the newest, and boom. You’ve got GameStop being that arbiter of gaming merch.
+
+Don’t even get me started on the kid buying up Pokémon cards for a rare pull to sell on eBay. Point is, Blockbuster didn’t adapt to changing times and didn’t have products that could rotate to eCommerce (since they skipped on RedBox, now Netflix). Blockbuster didn’t adapt because they had nothing to adapt with. Their product was a relic of the past. But since you can’t download a PS5, or download an original game cartridge or merchandise for your girlfriend to see you wear, don’t compare the two.
+
+Blockbuster at most, had candy for non downloadable items. Oh, and marked up popcorn buckets.
+
+TL:DR- 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🥜",https://www.reddit.com/r/wallstreetbets/comments/kzsz8j/gme_you_wouldnt_download_a_ps5_would_you/,wallstreetbets,t5_2th52
+46,kzt2pg,Hello WSB community I wanted to celebrate 100days with the best community GME was some crazy shit can’t wait for all the tendies yet to come,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt2pg/hello_wsb_community_i_wanted_to_celebrate_100days/,wallstreetbets,t5_2th52
+47,kzt2xo,GME gang on Tuesday...,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt2xo/gme_gang_on_tuesday/,wallstreetbets,t5_2th52
+48,kzt49e,My broker emailed me asking to borrow shares. The example stock they used was GME.,830,,https://www.reddit.com/r/wallstreetbets/comments/kzt49e/my_broker_emailed_me_asking_to_borrow_shares_the/,wallstreetbets,t5_2th52
+49,kzt5a4,"Victory and vindication, GME comrades!!! UUUURRRRRAAAAAAA!!!!!",49,,https://www.reddit.com/r/wallstreetbets/comments/kzt5a4/victory_and_vindication_gme_comrades/,wallstreetbets,t5_2th52
+50,kzt5gm,Celebrating my 100d GME was some crazy shit can’t wait for all the tendies ahead of us Long live Elon,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt5gm/celebrating_my_100d_gme_was_some_crazy_shit_cant/,wallstreetbets,t5_2th52
+51,kzt696,Celebrating my 100d GME was some crazy shit can’t wait for all the tendies ahead of us Long live Elon,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt696/celebrating_my_100d_gme_was_some_crazy_shit_cant/,wallstreetbets,t5_2th52
+52,kzt6k6,Celebrating my 100d GME was some crazy shit can’t wait for all the tendies ahead of us Long live Elon,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt6k6/celebrating_my_100d_gme_was_some_crazy_shit_cant/,wallstreetbets,t5_2th52
+53,kzt6x9,Celebrating my 100d GME was some crazy shit can’t wait for all the tendies ahead of us Long live Elon,0,,https://www.reddit.com/r/wallstreetbets/comments/kzt6x9/celebrating_my_100d_gme_was_some_crazy_shit_cant/,wallstreetbets,t5_2th52
+54,kzt7le,"German Autist reporting in, GME to se Mond",2,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzt7le/german_autist_reporting_in_gme_to_se_mond/,wallstreetbets,t5_2th52
+55,kzt9fw,I'm 13 and on my way to buy 11 shares of $GME with my 400$ buying power 🚀🚀🚀🚀🚀🚀🚀🚀🚀GME GANG🚀🚀🚀🚀,2,,https://www.reddit.com/r/wallstreetbets/comments/kzt9fw/im_13_and_on_my_way_to_buy_11_shares_of_gme_with/,wallstreetbets,t5_2th52
+56,kztape,I'm 13 and on my way to buy 11 shares of $GME with my 400$ buying power 🚀🚀🚀🚀🚀🚀🚀🚀🚀GME GANG🚀🚀🚀🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/kztape/im_13_and_on_my_way_to_buy_11_shares_of_gme_with/,wallstreetbets,t5_2th52
+57,kztg9y,GME | Without Deferred Taxes Aiding the Top Line in Oct 2020 | YoY Net Losses Would have Been 30% Higher | Bear Case,0,,https://www.reddit.com/r/wallstreetbets/comments/kztg9y/gme_without_deferred_taxes_aiding_the_top_line_in/,wallstreetbets,t5_2th52
+58,kzth2i,GME | Without Deferred Taxes Aiding the Top Line in Oct 2020 | YoY Net Losses Would have Been 30% Higher | Bear Case | Puts,18,,https://www.reddit.com/r/wallstreetbets/comments/kzth2i/gme_without_deferred_taxes_aiding_the_top_line_in/,wallstreetbets,t5_2th52
+59,kztvnm,Went 6000€ in on GME,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kztvnm/went_6000_in_on_gme/,wallstreetbets,t5_2th52
+60,kztvq5,GME: Trading212 operating share lending potentially undermining the short squeeze,2,"My platform Trading212 required investors to agree to allow their shares to be lended to short sellers, which compensates them for providing the service with no platform or transaction fees. Doesn't this just undermine the whole short squeeze if our brokers can lend our shares to the short sellers? As far as I'm aware there is no opt out, but can this be overcome by placing a limit order to take my shares off the table for lending?
+
+https://www.reddit.com/r/UKInvesting/comments/hbw3cb/trading212_securities_lending/?utm_medium=android_app&amp;utm_source=share",https://www.reddit.com/r/wallstreetbets/comments/kztvq5/gme_trading212_operating_share_lending/,wallstreetbets,t5_2th52
+61,kzu0o7,Are you retards buying cocaine with your gains???? 🚀🚀🚀🚀,16,"I am off for 2 weeks and come back to some high quality video content and retards hyping up a GME short squeeze. Which is fine by me but i gets more bizarre...
+
+One of the top threads is about an autist being financially ruined through ornamental gourd futures???
+
+A guy gets over 200 awards for confessing his gay love for this sub???
+
+finally, chinese EV propaganda and melvin short sellers try to unsuccessfully manipulate the wsb sentiment????
+
+please take it easy on the drugs. it wont cure your autism.
+
+&amp;#x200B;
+
+positions: 100 GME and 50 CRSP shares **🚀**",https://www.reddit.com/r/wallstreetbets/comments/kzu0o7/are_you_retards_buying_cocaine_with_your_gains/,wallstreetbets,t5_2th52
+62,kzu26x,Does anyone else use Revolut for stonks?,19,"I just use it to get aboard the GME rocket. I need someone to talk about how shit it is. Unless you think it's good, then you can explain some features to me, because it seems that it only does the basics.",https://www.reddit.com/r/wallstreetbets/comments/kzu26x/does_anyone_else_use_revolut_for_stonks/,wallstreetbets,t5_2th52
+63,kzu65p,GME Bears gonna get slaughtered tomorrow 🚀 🚀,108,,https://www.reddit.com/r/wallstreetbets/comments/kzu65p/gme_bears_gonna_get_slaughtered_tomorrow/,wallstreetbets,t5_2th52
+64,kzu8pd,When to buy more GME shares? 🚀🚀🚀,25,"I'm alredy in GME and want more. Should I buy now, tomorrow, or later?",https://www.reddit.com/r/wallstreetbets/comments/kzu8pd/when_to_buy_more_gme_shares/,wallstreetbets,t5_2th52
+65,kzuboo,When economists ask us retards adn autist why we bought GME,0,,https://www.reddit.com/r/wallstreetbets/comments/kzuboo/when_economists_ask_us_retards_adn_autist_why_we/,wallstreetbets,t5_2th52
+66,kzubut,GME,0,,https://www.reddit.com/r/wallstreetbets/comments/kzubut/gme/,wallstreetbets,t5_2th52
+67,kzudl6,I am short GME,42,"Fuck you all youre just a cult. Melvin is gonna give me tendies, give me one good reason to listen to autists instead of mega chad Melvin.
+
+Call me a 🌈🐻 all you want. When Melvin is balls deep in my girlfriend he laughs at all you WSB tards taking loans to «pump the price up». You guys only have pocket change compared to the big boys institutional tendies
+
+I might be poor but if I slowly lick up the cream💦 from the big boys I will steadily make money until one day I can own a brand new toyota.",https://www.reddit.com/r/wallstreetbets/comments/kzudl6/i_am_short_gme/,wallstreetbets,t5_2th52
+68,kzujet,Noob question- what limit should I put on my $700 GME limit order?,0,"How can I tell if this will even go down? I want to buy slightly more than 20 shares rather than potentially less if possible but.. is it even likely to go down below 35?         
+Not sure how anyone can know so I am just tempted to queue up a regular order on Robinhood.",https://www.reddit.com/r/wallstreetbets/comments/kzujet/noob_question_what_limit_should_i_put_on_my_700/,wallstreetbets,t5_2th52
+69,kzujut,GME Ryan Cohen,33,,https://www.reddit.com/r/wallstreetbets/comments/kzujut/gme_ryan_cohen/,wallstreetbets,t5_2th52
+70,kzukt2,💰 GERMANS ARE GOING FULL YOLO IN GME TODAY 🚀🚀🚀🚀 EU is preparing the squeeze!,0,,https://www.reddit.com/r/wallstreetbets/comments/kzukt2/germans_are_going_full_yolo_in_gme_today_eu_is/,wallstreetbets,t5_2th52
+71,kzulof,GME Chartanalyse Frankfurt,0,,https://www.reddit.com/r/wallstreetbets/comments/kzulof/gme_chartanalyse_frankfurt/,wallstreetbets,t5_2th52
+72,kzupt3,GME freefloat rose from 9% to 73%,36,"Im on the GME hype train.
+
+As of today, new numbers appeared that show GME freefloat rose from 9% (i did my DD on saturday) to 73% as of today.
+
+Sources:  [https://markets.ft.com/data/equities/tearsheet/summary?s=GME:NYQ](https://markets.ft.com/data/equities/tearsheet/summary?s=GME:NYQ) 
+
+German Site:  [https://www.finanzen.net/unternehmensprofil/gamestop](https://www.finanzen.net/unternehmensprofil/gamestop) 
+
+&amp;#x200B;
+
+WTF happened?
+
+Does this mean many shorts can be covered in the near future?
+
+Last week there were around 5mil. freefloat shares, which could not possibly be covering all the short interest.
+
+Now there is a lot more up for buy, what has happened and what does this me for our trip to the moon???",https://www.reddit.com/r/wallstreetbets/comments/kzupt3/gme_freefloat_rose_from_9_to_73/,wallstreetbets,t5_2th52
+73,kzuqx8,GME Price Target Revised,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzuqx8/gme_price_target_revised/,wallstreetbets,t5_2th52
+74,kzuttw,Can someone help make this clip into a GME meme,3,"https://www.youtube.com/watch?v=QULj7MecgaQ
+
+having William Wallace screaming hold is gold and fits perfectly into what we've been telling you paperhanded chucklefucks",https://www.reddit.com/r/wallstreetbets/comments/kzuttw/can_someone_help_make_this_clip_into_a_gme_meme/,wallstreetbets,t5_2th52
+75,kzuwww,I'm only dying once(yodo)🚀🚀🚀🌕🌕,24,"Sup tards - busting my reddit virginity here with my first post. Looking to rice out the e46 m3🏁🖤 and steal  🌈🐻 Wives . 🚀🚀🚀 Moving TSLA to GME in my Roth IRA. I have a limit order for $33 : 77 shares straight fucking cash tomorrow. Pumping another $2400 in my cash account mid week - Currently sitting on 12 shares of Elons power wheels @ $756. I want to maximize profit on 7 of those shares, so what's my stop loss tomorrow (TSLA)  to quickly buy more GME. 
+Are we having a family reunion in 2022? I'll host it at my new mansion. 
+Thanks🤙🚀",https://www.reddit.com/r/wallstreetbets/comments/kzuwww/im_only_dying_onceyodo/,wallstreetbets,t5_2th52
+76,kzv11m,It’s my 1st time ever investing tomorrow and I’m going all in on GME.,6,I’m only buying 4 shares because I’m poor as fuck but this looks like a good way to start.,https://www.reddit.com/r/wallstreetbets/comments/kzv11m/its_my_1st_time_ever_investing_tomorrow_and_im/,wallstreetbets,t5_2th52
+77,kzv29v,"GME - 500 this morning no matter the pricetag (EU) - who we gonna wave to, when we're leaving earth????? 🚀🚀🚀🚀🚀🚀🚀🚀🙌💎",0,,https://www.reddit.com/r/wallstreetbets/comments/kzv29v/gme_500_this_morning_no_matter_the_pricetag_eu/,wallstreetbets,t5_2th52
+78,kzv4g6,Something fishy going on? eToro does not allow selling GME,0,,https://www.reddit.com/r/wallstreetbets/comments/kzv4g6/something_fishy_going_on_etoro_does_not_allow/,wallstreetbets,t5_2th52
+79,kzv5b4,GME in Franfurt +15% in premarket,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzv5b4/gme_in_franfurt_15_in_premarket/,wallstreetbets,t5_2th52
+80,kzv8g7,Monitor how GME is trading in other countries while the US stock market is closed,86,"I hope you all enjoy the charts 🚀 🚀 🚀 !!!
+
+https://markets.businessinsider.com/stocks/gme-stock",https://www.reddit.com/r/wallstreetbets/comments/kzv8g7/monitor_how_gme_is_trading_in_other_countries/,wallstreetbets,t5_2th52
+81,kzvfvh,"Tomorow we dine my fellow Autist bretherin, drinking and wh*ring for eternity and beyond HOLD 🚀🚀🚀🚀🚀🚀🚀🚀 GME $$$",0,,https://www.reddit.com/r/wallstreetbets/comments/kzvfvh/tomorow_we_dine_my_fellow_autist_bretherin/,wallstreetbets,t5_2th52
+82,kzvgvp,Shorting gme disabled,75,"Shorting gme at etoro is disabled. Margins disabled for brokers like schwab, Fidelity and iBKR.
+
+I think we are in for a fun TuesDay when 
+market opens.gme gaaaang 🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/kzvgvp/shorting_gme_disabled/,wallstreetbets,t5_2th52
+83,kzvhv1,"On the eve of our GME space flight, I present each &amp; every one of you space cadets your very own mission patch 🚀💎🤲",2,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzvhv1/on_the_eve_of_our_gme_space_flight_i_present_each/,wallstreetbets,t5_2th52
+84,kzvjk3,WSB when there's a dip before the $GME rocket takes off 🚀🚀🚀🚀🚀🚀,132,,https://www.reddit.com/r/wallstreetbets/comments/kzvjk3/wsb_when_theres_a_dip_before_the_gme_rocket_takes/,wallstreetbets,t5_2th52
+85,kzvjyh,I have Aspergers,5,Going to buy 100k of gme of tuesday. Let’s go full retard,https://www.reddit.com/r/wallstreetbets/comments/kzvjyh/i_have_aspergers/,wallstreetbets,t5_2th52
+86,kzvk45,"On the eve of our GME space flight, I present each &amp; every one of you space cadets your very own mission patch 🚀💎🤲",670," Since the first manned spaceflight, mission patches were sewn to astronauts suits to represent their mission goals. Every single spaceflight has had their own custom-made, crew-designed mission patch to be worn in space and I see no reason why our mission aboard the GME should be any different. So, on the eve of our trip to outer space, I present each and every one of you winkled brained space cadets your very own mission patch. Wear it proud. GME to 420.69 🚀🚀🚀🚀🚀🚀 
+
+*Processing img 0nl6gt9go3c61...*",https://www.reddit.com/r/wallstreetbets/comments/kzvk45/on_the_eve_of_our_gme_space_flight_i_present_each/,wallstreetbets,t5_2th52
+87,kzvl30,I can't stop but keep refreshing the page by New to see GME news? Am I crazy?,2,[removed],https://www.reddit.com/r/wallstreetbets/comments/kzvl30/i_cant_stop_but_keep_refreshing_the_page_by_new/,wallstreetbets,t5_2th52
+88,kzvmpa,$GME IM GUNNA KILL THE BEAR,2,,https://www.reddit.com/r/wallstreetbets/comments/kzvmpa/gme_im_gunna_kill_the_bear/,wallstreetbets,t5_2th52
+89,kzvo6o,GME holders tomorrow 🚀 🚀 🚀,2,,https://www.reddit.com/r/wallstreetbets/comments/kzvo6o/gme_holders_tomorrow/,wallstreetbets,t5_2th52
+90,kzvtil,SA Article- GME Insiders Sell,1,,https://www.reddit.com/r/wallstreetbets/comments/kzvtil/sa_article_gme_insiders_sell/,wallstreetbets,t5_2th52
+91,kzvw6e,GME,67,,https://www.reddit.com/r/wallstreetbets/comments/kzvw6e/gme/,wallstreetbets,t5_2th52
+92,kzvxfw,Most simple $GME DD,4,"Just hold the fucking line retards, shorting GME has been disabled on multiple brokerages.   
+You have one job, don't press the sell button.
+
+TL;DR  💎 🤲🏻 = 🚀🚀🚀🚀🚀🚀🌕",https://www.reddit.com/r/wallstreetbets/comments/kzvxfw/most_simple_gme_dd/,wallstreetbets,t5_2th52
+93,kzvz4w,"Can’t go tits up, $37k in",11,"Alright While this isn’t a yolo, I’m depending on you autists to tell me how I can get fucked by this. 
+
+I know you guys don’t like SPACs but this is something else entirely. The new SPCX ETF manages pre-merger SPACs and they always sell pre-merger ( or even if there is a significant bump in stock price) 
+
+Up 11.78% since IPO in December and currently in a dip. 
+
+Pros. 
+
+1. Literally can’t go tits up. With the ETF being made up of spacs, the whole thing has a floor. 
+
+2. The floor moves! Every time the my sell a spac and inject that money into their current holdings or a different spac, the floor moves higher. 
+
+3. Get SPACs cheaper, SPACs are almost always trading a a premium to NAV when they IPO. SPCX will buy them at NAV. 
+
+4. Exponential growth due to recycling money into news SPACs at NAV 
+
+Cons. 
+
+1. SPAC interest fades away and growth is slowed down 
+
+2. You’ll have less money to yolo on BB and GME FDs.
+
+3. Low volume. This ETF currently has really low volume and options spreads are horrible. I would recommend investing some time if you got into any options.
+
+The volume issue should be fixed if we continue to see growth. (The ETF is only 1 month old) 
+
+
+Positions.
+
+100 SPCX $29c 03/19
+51 SPCX $30c 03/19 
+
+Will probably sell off all positions when I see a profit and go all in 09/17 $41c",https://www.reddit.com/r/wallstreetbets/comments/kzvz4w/cant_go_tits_up_37k_in/,wallstreetbets,t5_2th52
+94,kzw0c7,IM AFRAID MAYBE I MISSED THE TRAIN. BUT I DONT WANT TO MISS IT WHEN IT GOES TO THE NEXT STOP. DO I YOLO 🚀✨GME✨🚀SHARES ON MARGIN COME TOMORROW MARKET?? OPEN LMK,8,,https://www.reddit.com/r/wallstreetbets/comments/kzw0c7/im_afraid_maybe_i_missed_the_train_but_i_dont/,wallstreetbets,t5_2th52
+95,kzw0md,GME holders tomorrow 🚀🚀🚀,72,,https://www.reddit.com/r/wallstreetbets/comments/kzw0md/gme_holders_tomorrow/,wallstreetbets,t5_2th52
+96,kzw36d,GME dropping subtle hints on their LinkedIn page,1,"""Only in the darkness can you see the STARS"" -MLK",https://www.reddit.com/r/wallstreetbets/comments/kzw36d/gme_dropping_subtle_hints_on_their_linkedin_page/,wallstreetbets,t5_2th52
+97,kzw3sc,"AFTER $GME short squeeze, the next short squeeze $BBBY. Super 💎🙌🏼 events.",33,"Let’s start off by saying, this is not investment advice, this is a hypothetical observation which could 🚀🚀🚀 to 🌙 TWICE. Hypothetical super 💎🙌🏼 plays.
+
+Bed, Bath, and Beyond ($BBBY) is looking like a similar scenario to $GME as we speak.
+
+They have similar market caps, similar sales and profits, similar future growth outlooks, management shake ups, similar short interest, and a crossover of some of the same institutional investors (and 🌈🐻).
+
+The numbers of $BBBY to show a potential short squeeze:
+
+Shares outstanding: 121.21M
+Float: 90.87M
+
+Short interest: 76.18m (as of 12/31/2020)
+Short % of Float: 83.84%
+
+From Jan 7 - 14th, the share price went from $18.73 to $27.34. On Friday Jan 15, the price held to a market close of $25.60 putting pressure on shorts. 
+
+Because of the increase share price:
+
+Shares on Loan = 40.87M or 53%. So there’s already a significant short pressure for to get margin calls eventually.
+
+Not going to to DD as you can find it here: 
+
+https://www.reddit.com/r/wallstreetbets/comments/km048x/very_bullish_on_bbby_dd_included/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+https://www.reddit.com/r/wallstreetbets/comments/kmp2lg/bed_bath_to_infinity_and_beyond_bbby_solid_dd/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+
+⛽️ for the 🔥, WSBs favorite hedge fund shorts $BBBY
+
+Remember, this is just all a hypothetical investment event. 
+
+TL;DR - 
+So the 💎🙌🏼 play = let $GME short squeeze to the 🌙, with the gains of that PURCHASE $BBBY shares and have another short squeeze to 🚀🚀🚀🚀🚀🚀 to the 🌙 🌙🌙🌙 AGAIN, then buy LEAPS for $TXT and $VW cause there’s going to be so many rich AF people I know there’s going to be an uptick in private airplane orders and Lambos.",https://www.reddit.com/r/wallstreetbets/comments/kzw3sc/after_gme_short_squeeze_the_next_short_squeeze/,wallstreetbets,t5_2th52
+98,kzw3wr,🚂End of the Line for GME🚂,25,"[https://www.tradingview.com/x/uyDiAaMY/](https://www.tradingview.com/x/uyDiAaMY/)
+
+Y'all might have f\*cked up. WSB pumped up the GME stock and inflated the Volume the 10-20x. It is called a pump and dump scheme for a reason. To maintain this pump, there needs to be more volume to prevent a liquidity dry up. This is impossible, so people do the second part, they dump. Some of y'all forgot to dump and that is starting to be a problem because volume is falling back to regular levels and the momentum is flatter than the Earth. Y'all really should sell guys, wtf are y'all doing? 
+
+&amp;#x200B;
+
+TL;DR: Don't turn your GME gain porn into GME loss porn. Sell, put hedge or short+call hedge.",https://www.reddit.com/r/wallstreetbets/comments/kzw3wr/end_of_the_line_for_gme/,wallstreetbets,t5_2th52
+99,kzw5gc,A stonk to create global peace,13,"With the US market closed today, DAX became the only place to trade GME, and it's occurred to me that it's amazing how this stock has brought such global unity. We all realised we're just a bunch of fuckwits wanting to pump a shit stonk to high heaven and get rich for once in our pleb lives. Watching our europoorean brothers hold the line today actually makes me feel quite proud, their willingness to sacrifice their portfolios at this chance of greatness was nothing to be underestimated, as they crusade along us against malvin and the institutes.
+
+I cannot emphasise how retarded this idea actually seemed, that a bunch of retards on an online wendy's discussion forum could actually influence the market, and yet it feels as though there has truly been an impact, the amount of share buying induced by wsb cannot be insignificant at this point.
+
+It's easy to believe that institutes would surely be ready for this, that they must have some risk management protocol, but with every long being added on, requests for more share lending and rising hard to borrow fees, all are pointing to signs of cracking under the surface. 
+
+And so, as every stock market opens around the world, a new army of starry eyed retards come in to buy with the hope of making it big. The tears of a thousand portfolios will be shed, in one way or another, but the spirit of yolo will never die, as we realise we're all just a bunch of plebs, seeking to escape our mundane lives. Reading german wsb has made me realise that they too are fuckwits, and thus gives me hope on the level of retardation we can all achieve.
+
+The spirit of autism is inside us all, in the end, however this saga may finish you can't say we didn't give it our retarded best.
+
+Godspeed Autists
+
+GME 1/22 500c",https://www.reddit.com/r/wallstreetbets/comments/kzw5gc/a_stonk_to_create_global_peace/,wallstreetbets,t5_2th52

@@ -1,0 +1,438 @@
+,id,title,num_comments,text,link,subreddit,subreddit_id
+0,l4hidu,How GME shorts will actually cover(a simplified explanation from someone who is still learning),1,"Firstly, you gotta know that a lot of the float in GME is synthetic long. What is that?
+
+Synthetic shares simplified: Assuming there are only 10 shares and M is the original owner of all the shares. When X short a share. X borrows it and sells it and someone else buys it. If Y is the buyer, Y is also now an owner of a share.
+
+Because there were only 10 stock to begin with. And because now there are 11 shares in the hands of M and Y. Y's 1 share is a piece of the original share. And M has 1 synthetic share.
+
+Now if you continue that, there is no real limit to how much shares can become synthetic. There could be only 10 shares in existence and synthetics could be 50 shares as it could be shorted again and again.
+
+But there are some limiting factors for which this sort of scenarios don't happen.
+1. Borrow rate and 2. Selling and buying of shares.
+
+Once you borrow a share, you gotta pay the cost of borrowing. Now when you are borrowing again and again, the actual shares becomes harder and harder to borrow exponentially and interest rates also increase exponentially. Why?
+
+Lets get back to the original scenario. Suppose after X shorted a share, he shorts one more. After first event there was actual borrow ratio of 1/11. After his second short, his borrow ratio is 2/12. Do it again, and you would 3/13. Can you see how the shares shorted linearly leading to crowding of borrowers and the interest increasing exponentially?
+
+Now let's assume, X shorted all of M's shares and if Y bought all of it. So there’s 20 total share owners in the market.
+
+Now, lets say the price of that stock is £420.69. If M, let's say decides to sell his 5 shares. The broker must provide M with his 5 shares to sell. The broker is on the hook. The broker cannot just buy them. So the broker tells X, ""Bro, you give me back the 5 shares I lent you as  you promised you would return them to me whenever I need them or pay M the money of his 5 shares, like right now.""
+
+If X just decides to buy back those 5 shares from M(which is more likely), he is covering. X will pay the M the monetary value of those 5 shares at the market price and destroy those 5 synthetic shares. As a result, M is left with 5 synthetic shares, money worth of 5 shares and Y is still owner of the 10 shares. Whereas X is still short on 5 shares. So, total shares in the market is 15.
+
+But X have had to pay a heavy price. Because he was forced to buy from M. M priced his shares as high as he could get away with.
+
+Think about it. The case was M selling shares which should have added downward pressure to the stock. Instead it creates an upward momentum since the short is forced to perform open market operation. This is a very illiquid scenario with only 3 fixed participants.
+
+In reality, if no one is interested in buying, M would have to reduce his share price. This would mean X's plan is successful. He would offer M a price of £100 to buy back those 5 shares. If M agrees, X profits from this whole ordeal and M loses profit.
+
+Shorts in a way, artificially reduce price since them shorting creates excess supply. If X didn’t short the 10 shares in the first place, M would have been able to sell them to Y for higher prices since Y wants to buy it.
+
+But in a real world scenario, this is unlikely, since there are lots of fancy uses of algorithm to keep the price stable and lots of volume. Market makers, buyers and sellers with differences in motives.
+
+Borrowing cost of X's shorts however would decline. Since previously, he was 10 shares short out of 20 total shares or 50%. Now he is 5 shares short out of 15 or 33%.
+
+I hope you understood somewhat how synthetic shares and their borrowing works?
+
+Now, let's come back to the real world. In case of GME, as long as there’s newer and newer buyers, shorts could just create more synthetic shares and suppress the price. But newer buyers also add an upward momentum to the stock in that if there's more demand then supply, price would rise.
+
+So this becomes a pretty complex scenario. Shorts paying heavy interest rate based on the latest stock price. They are still shorting and being able to suppress the stock price by increasing supply. But that supply is being eaten up by the insatiable demand of us(retail investors).
+Add to that gamma hedging by market makers. Scalper bots trying to take opportunity of the slightest movement in price, this becomes a garbled scenario that's pretty hard to explain.
+
+All I could say is this. Taking into consideration, the additional synthetic shares, I read from ShortSight[ShortSight](https://www.shortsight.com/short-interest-of-float-2-0/)(a venture from S3 Partners to inform people about this sort of thing) that the real GME Short Interest of float is 60%(very outdated data, probably already changed a lot) but if you take the faulty calculations of float by some vendors, it is close to 200-300%(those are irrelevant).
+
+But taking that synthetic shares into consideration, a 60% SI of flost is extremely explosive. Explosive to the point that it could not be easily described in words.
+
+Think about this, if for one reason or another, lets say, due to a combination of constant gamma squeeze, Ryan Cohen’s tweeting, good news development of Gamestop etc shorts finally decide to cover. They have to perform an open market operation of unprecedented scale relative to a company's size.
+
+*This is how it will unfold.* A short firm, decides, it’s not worth it any more to keep on bleeding interest payment.
+They decide to cover. Meaning all the extra synthetic longs that has been created now has to be bought back, paying the synthetic longs their share price.
+
+All of a sudden, out of 70M short shares there's 65M. Next week there’s 60M.
+
+Other hedge fund sees slowly(5-10% in a week let's say) rising prices and declining short interest. They immediately understand that someone is covering. If they were to remain sitting, they would possibly get margin called at the last 20% of the game.
+
+Why? Because paper hands will always sell out with the smallest of gains. But there are some people who would not(institutional investors, diamond hands etc). So even though short interest continues to decline the availability of shares that are actively traded actually keeps on getting more and more reduced.
+
+So they would have to raise their prices to unsustainable levels to actually get to make diamond hands sell. This could get you margin called, which nobody wants. Because if they do, their funds would be finished for good.
+
+Ultimately, this becomes a self fulfilling prophesy, fund managers dash to buy shares from the open market. Leading to boom boom boom booom booooom booooooom.
+
+A good analogy of this scenario would be the rush hours at metros. If everyone decided for an orderly exit and entry, no one would have suffered, but since everyone is self interested, everyone suffers. And the longs rake in tendies.
+
+This however is unlikely to happen if only one or two funds are behind this huge short interest. In that case, they may collude and let prices fall as much as they can, potentially even banking profits. In that case shorts would make an orderly exit and prices wouldn’t rise much, if it rises at all.
+
+*That's it.*
+
+If you haven’t understood shit, no problem. I don't either. This is my best guess of how things would turn out from recently reading all I can about GME and synthetics.
+
+If I had to use an even simpler method to describe the whole situation, it is figuratively similar to the fractional reserve banking system. Banks can keep very little money on hand compared to deposits. And they in turn.increase supply of money int the economy, making money cheaper. Fractional banking and synthetic longs could be thought of as the same type of system.
+
+If suddenly everyone decides to dash for their money in their bank, the bank would immediately default(if there's no central bank). 
+
+Similarly, if for one reason or another, shorts try to cover their positions quickly, they are forced to buy the synthetics they have created at exorbitant price and this further fuels the machine.
+
+Not to mention the various scalper bots, algos, hedge funds, retail traders that take every opportunity of this sort of situation and create further buying pressure and force shorts to cover at more and more worse price.
+
+This situation could get further exacerbated if the shorts are margin called.
+
+If the shorts have huge margin(like 10s to 100s of billions) and are able to maintain their margin they may be able to weather the storm and finally cover when this whole ordeal is actually over. Here, their margin is like central bank.",https://www.reddit.com/r/wallstreetbets/comments/l4hidu/how_gme_shorts_will_actually_covera_simplified/,wallstreetbets,t5_2th52
+1,l4i3fp,CD Projekt red to be the next gamestop ?🚀,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4i3fp/cd_projekt_red_to_be_the_next_gamestop/,wallstreetbets,t5_2th52
+2,l4iif6,Gamestop opened at ~80$ in Germany. God damn! 🚀🚀🚀🚀🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/l4iif6/gamestop_opened_at_80_in_germany_god_damn/,wallstreetbets,t5_2th52
+3,l4j23y,GameStop DD and a Reminder to Retail Investors,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4j23y/gamestop_dd_and_a_reminder_to_retail_investors/,wallstreetbets,t5_2th52
+4,l4j2bt,German exchange witnesses 51% single day gain in gamestop!🚀🚀🚀🚀🚀🚀,1,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4j2bt/german_exchange_witnesses_51_single_day_gain_in/,wallstreetbets,t5_2th52
+5,l4kldg,GameStop up to 127$ in Europe 🚀🚀🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/l4kldg/gamestop_up_to_127_in_europe/,wallstreetbets,t5_2th52
+6,l4klo2,GAMESTOP UP 89% IN GERMAN MARKET🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/l4klo2/gamestop_up_89_in_german_market/,wallstreetbets,t5_2th52
+7,l4kq0e,GME options in europe?,0,"Hey guys. New trader here. I wanted to buy some options of gamestop but cant find anything in europe (im in Amsterdam)
+
+Does anyone know where i can get this? Otherwise its just buying GME stock from de giro. But i think profit there will be less than with options no?",https://www.reddit.com/r/wallstreetbets/comments/l4kq0e/gme_options_in_europe/,wallstreetbets,t5_2th52
+8,l4kv7l,There's a KickStarter project called ShadowCast that lets you play your GameStop games on your laptop while YOLOing on WSB $GME🚀🚀🚀🌒,0,,https://www.reddit.com/r/wallstreetbets/comments/l4kv7l/theres_a_kickstarter_project_called_shadowcast/,wallstreetbets,t5_2th52
+9,l4l4eq,Gamestop @ $100,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4l4eq/gamestop_100/,wallstreetbets,t5_2th52
+10,l4l5sj,Can’t Stop... GameStop 🚀🚀🚀🚀 Papa Cohen taking us to infinity any beyond 🙌🙌🙌💎💎💎,0,,https://www.reddit.com/r/wallstreetbets/comments/l4l5sj/cant_stop_gamestop_papa_cohen_taking_us_to/,wallstreetbets,t5_2th52
+11,l4l9an,So is gamestop a buy market open? Cuz ppl saying its gonna have a red day and im new so idk what to trust 😔,1,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4l9an/so_is_gamestop_a_buy_market_open_cuz_ppl_saying/,wallstreetbets,t5_2th52
+12,l4lby2,Quick question new to stocks,0,"Hey guys im kind of new to robinhood and trading , so i found wallstreet bets on youtube and made some nice money on gamestop , thanks for that . I have a quick question , if i placed a BB order for $14.99 during market closed on saturday , will i still be getting it at that price on monday , because i see price already went up to $17",https://www.reddit.com/r/wallstreetbets/comments/l4lby2/quick_question_new_to_stocks/,wallstreetbets,t5_2th52
+13,l4lh3l,GameStop shares surge 44% in premarket trade as epic run continues,0,,https://www.reddit.com/r/wallstreetbets/comments/l4lh3l/gamestop_shares_surge_44_in_premarket_trade_as/,wallstreetbets,t5_2th52
+14,l4ljtn,GameStop Melt-Up Leaves Wall Street Price Analysis in Shambles,0,,https://www.reddit.com/r/wallstreetbets/comments/l4ljtn/gamestop_meltup_leaves_wall_street_price_analysis/,wallstreetbets,t5_2th52
+15,l4lqva,Gamestop Reverse Psychology,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4lqva/gamestop_reverse_psychology/,wallstreetbets,t5_2th52
+16,l4mt4i,"GameStop, BlackBerry, Kimberly-Clark (TL;DR — [GME] ... at the center of a tussle between internet message board day traders and hedge fund short sellers...""",0,,https://www.reddit.com/r/wallstreetbets/comments/l4mt4i/gamestop_blackberry_kimberlyclark_tldr_gme_at_the/,wallstreetbets,t5_2th52
+17,l4mxf9,EOLS is next gamestop (GME),0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4mxf9/eols_is_next_gamestop_gme/,wallstreetbets,t5_2th52
+18,l4mzca,"I'm retarded and have no more money to yolo into GME... we degenerates should go buy this 🚀 shirt from GameStop, because this MFer is going to Pluto! A place so magical for 💎🤲 stonks the 🌈🐻 had to try and hide it from us everyday 🎨.",1,,https://www.reddit.com/r/wallstreetbets/comments/l4mzca/im_retarded_and_have_no_more_money_to_yolo_into/,wallstreetbets,t5_2th52
+19,l4n7xy,Found The New Gamestop Megastore Location 🚀,1,,https://www.reddit.com/r/wallstreetbets/comments/l4n7xy/found_the_new_gamestop_megastore_location/,wallstreetbets,t5_2th52
+20,l4nb2w,Stock Market News for Today | PLTR / GM / AAPL / TSLA / FB / MSFT &amp; Other Stock Market News [01-25],1,"**Stocks close out the week with big gains, as Big Tech comes back in flavor. The earnings frenzy starts with Apple, Tesla, Facebook &amp; Microsoft reporting. GameStop, GM &amp; Ford spiked last week, let’s talk about this and other stock market news**
+
+Hello everyone and Good Morning! So, let’s start with the recap of Friday as we saw most of the stock market giving up some of the big gains of the week, with the broad stock market [SP500](https://ibb.co/ZxdGSkm) losing .30% &amp; the [Dow Jones](https://ibb.co/MRn5Q40) Industrial dropping 179 points while the [Nasdaq Composite](https://ibb.co/F3wm2d8) barely managed to post a small gain for the day as we also saw the [VIX](https://ibb.co/JRkwsZn) ticking up a little but finishing under 22 for the week, with the Nasdaq gaining 4.2% in the short week the SP500 rising 1.9% and the Dow Jones posting a .6% gain.
+
+About 55% of the [companies](https://ibb.co/hFF1hSm) were advancing on below average volume as the number of companies moving above the moving averages still remains very high. We only saw 3 of the 11 [SECTORS](https://ibb.co/pPJpQCk) posting small gains for the day while the biggest losers were the value play in Financials, Energy and Industrials, all losing more than .50%
+
+For the week we saw communications outperform with a big spike after Netflix reported earnings, while Energy had more than one ugly day dropping big on Monday, Thursday and Friday.
+
+Small-caps faired better to close out the [week](https://ibb.co/y0C39gJ), with all 3 groups posting gains of more than 1.5% while Large-Cap Value companies underperformed losing more than 2.5% for the week, as Growth Companies &amp; Especially the big-caps finally outperformed this week, gaining 2.3%.
+
+Here is the HEAT MAP from [Friday](https://ibb.co/MnWSRV4), which was a pretty mixed bag, with Apple posting a big gain ahead of the earnings report while the other big tech companies also posted small-gains. For the [WEEK](https://ibb.co/BfYRHWS) though, we saw huge gains in most of the big tech names with all the FAANG names and Microsoft gaining more than 5% for the week, while Banks alongside Oil &amp; Gas companies were the biggest losers
+
+We also got some economic data on Friday as existing home [sales](https://ibb.co/KWxRW9m) rose again while the inventory is still at all time-lows of under 2 months of supply while the January [PMI](https://ibb.co/x54dqCy) current read came in at 58, way above the 55.5 expected and 55.3 in the previous read as both the Services and Manufacturing PMI saw a spike of more than 2 points
+
+This week we also start the [EARNINGS](https://ibb.co/2nsRvBx) frenzy, with AMD which might benefit from Intel’s drop last week, Microsoft &amp; Starbucks reporting after Tuesday’s close as JNJ might also give some updates regarding their vaccine, while big value companies like Boeing, AT&amp;T &amp; Caterpillar report before the open on Wednesday &amp; Friday. We also have some of the big tech names reporting on the same day, with Apple which is expected to have their first $100B quarter, Tesla &amp; Facebook reporting after Wednesday’s close which might be a bigger volatility moment for the market depending on how the results come in.
+
+In terms of economic [data](https://ibb.co/Fx6TWyw), we start off [today](https://ibb.co/4K4DDvp) with the Dallas FED Manufacturing survey but the most interesting ones are on Thursday &amp; Friday, while we also wait to see what the FED announces in terms keeping the rates low &amp; the money printer going with asset buying on Wednesday.
+
+In some other stock market, we saw [Palantir](https://ibb.co/zV2vxft) soar on Friday, rising more than 25% to break the $30 levels after they updated their Demo Day scheduled for tomorrow. It’s expected that they will reveal the latest developments in their big software platforms and also reveal [new](https://ibb.co/swYH61R) software platforms that will continue to help the company grow such as SDDI, Low-Code/No-Code and other modular strategy software.
+
+We also saw [Ford](https://ibb.co/D8cmmZn) soaring again, as the company is having the best monthly performance in more than 10 years and spiked more than 6% after JP Morgan upgraded the company based on their new product line which is what I’ve been saying about the company in some months now. Tesla is going to face serious competition in the next decade with all the other car manufactures pushing harder and harder into the EV world, with some of the most popular cars out there like the F150, the Bronco and other models joining the sector that will continue to improve and might actually become a good alternative to Tesla’s models. It’s the same with others like [GM](https://ibb.co/42G3ttK) which might be a good catch-up play compared to Tesla. By the way… [GM](https://ibb.co/vPwbPCs) is outperforming Tesla recently based on their developments in the EV &amp; self-driving sector.
+
+Meanwhile, [GME](https://ibb.co/bXYsj4k) had a wild day on Friday, gaining more than 50% despite being even higher as the battle between WSB &amp; the shorts continues, with this move making Citron’s Left deciding to avoid further talks about the company probably in an attempt to avoid future attention at the GameStop short squeeze. Short Squeeze has seen a big rise in terms of [search](https://ibb.co/qn51BPH) interest after these latest moves in the GameStop stock and might even put more pressure on the bears, as retail investors might pump up this stock even more.
+
+So, guys, this week might bring a lot of volatility depending on many of the important events we have. Earnings seasons &amp; especially big tech results will be important to justify these high multiples most of the tech names have received, while we also have to see how the GDP comes in, as it is expected to have seen a 4% growth for the 4th quarter while the FED is under pressure to keep the money printer on and the rates low, if not, or if there is any doubt in their commitments and also some numbers come in worse than expected we might see the long-awaited correction/pullback. But I don’t think numbers or the FED are going to disappoint really, but that doesn’t exclude the possibility of the pullback… keep investing safely &amp; have some money available to buy the dips if they appear, use them as a buying opportunity, not a panic sell.
+
+So, let’s hope for a good day in the markets as the US [FUTURES](https://ibb.co/929L2rz) are pointing to a very good open, with the Nasdaq leading the way up almost 1%
+
+**Thank you everyone for reading🙏 Hope you enjoyed the content! Be sure to leave a comment down below with your opinion on the stock market! Have a great day and see you next time❗**",https://www.reddit.com/r/wallstreetbets/comments/l4nb2w/stock_market_news_for_today_pltr_gm_aapl_tsla_fb/,wallstreetbets,t5_2th52
+21,l4nbuw,Stock Market News for Today | PLTR / GM / AAPL / TSLA / FB / MSFT &amp; Other Stock Market News [01-25],1,"**Stocks close out the week with big gains, as Big Tech comes back in flavor. The earnings frenzy starts with Apple, Tesla, Facebook &amp; Microsoft reporting. GameStop, GM &amp; Ford spiked last week, let’s talk about this and other stock market news**
+
+Hello everyone and Good Morning! So, let’s start with the recap of Friday as we saw most of the stock market giving up some of the big gains of the week, with the broad stock market [SP500](https://ibb.co/ZxdGSkm) losing .30% &amp; the [Dow Jones](https://ibb.co/MRn5Q40) Industrial dropping 179 points while the [Nasdaq Composite](https://ibb.co/F3wm2d8) barely managed to post a small gain for the day as we also saw the [VIX](https://ibb.co/JRkwsZn) ticking up a little but finishing under 22 for the week, with the Nasdaq gaining 4.2% in the short week the SP500 rising 1.9% and the Dow Jones posting a .6% gain.
+
+About 55% of the [companies](https://ibb.co/hFF1hSm) were advancing on below average volume as the number of companies moving above the moving averages still remains very high. We only saw 3 of the 11 [SECTORS](https://ibb.co/pPJpQCk) posting small gains for the day while the biggest losers were the value play in Financials, Energy and Industrials, all losing more than .50%
+
+For the week we saw communications outperform with a big spike after Netflix reported earnings, while Energy had more than one ugly day dropping big on Monday, Thursday and Friday.
+
+Small-caps faired better to close out the [week](https://ibb.co/y0C39gJ), with all 3 groups posting gains of more than 1.5% while Large-Cap Value companies underperformed losing more than 2.5% for the week, as Growth Companies &amp; Especially the big-caps finally outperformed this week, gaining 2.3%.
+
+Here is the HEAT MAP from [Friday](https://ibb.co/MnWSRV4), which was a pretty mixed bag, with Apple posting a big gain ahead of the earnings report while the other big tech companies also posted small-gains. For the [WEEK](https://ibb.co/BfYRHWS) though, we saw huge gains in most of the big tech names with all the FAANG names and Microsoft gaining more than 5% for the week, while Banks alongside Oil &amp; Gas companies were the biggest losers
+
+We also got some economic data on Friday as existing home [sales](https://ibb.co/KWxRW9m) rose again while the inventory is still at all time-lows of under 2 months of supply while the January [PMI](https://ibb.co/x54dqCy) current read came in at 58, way above the 55.5 expected and 55.3 in the previous read as both the Services and Manufacturing PMI saw a spike of more than 2 points
+
+This week we also start the [EARNINGS](https://ibb.co/2nsRvBx) frenzy, with AMD which might benefit from Intel’s drop last week, Microsoft &amp; Starbucks reporting after Tuesday’s close as JNJ might also give some updates regarding their vaccine, while big value companies like Boeing, AT&amp;T &amp; Caterpillar report before the open on Wednesday &amp; Friday. We also have some of the big tech names reporting on the same day, with Apple which is expected to have their first $100B quarter, Tesla &amp; Facebook reporting after Wednesday’s close which might be a bigger volatility moment for the market depending on how the results come in.
+
+In terms of economic [data](https://ibb.co/Fx6TWyw), we start off [today](https://ibb.co/4K4DDvp) with the Dallas FED Manufacturing survey but the most interesting ones are on Thursday &amp; Friday, while we also wait to see what the FED announces in terms keeping the rates low &amp; the money printer going with asset buying on Wednesday.
+
+In some other stock market, we saw [Palantir](https://ibb.co/zV2vxft) soar on Friday, rising more than 25% to break the $30 levels after they updated their Demo Day scheduled for tomorrow. It’s expected that they will reveal the latest developments in their big software platforms and also reveal [new](https://ibb.co/swYH61R) software platforms that will continue to help the company grow such as SDDI, Low-Code/No-Code and other modular strategy software.
+
+We also saw [Ford](https://ibb.co/D8cmmZn) soaring again, as the company is having the best monthly performance in more than 10 years and spiked more than 6% after JP Morgan upgraded the company based on their new product line which is what I’ve been saying about the company in some months now. Tesla is going to face serious competition in the next decade with all the other car manufactures pushing harder and harder into the EV world, with some of the most popular cars out there like the F150, the Bronco and other models joining the sector that will continue to improve and might actually become a good alternative to Tesla’s models. It’s the same with others like [GM](https://ibb.co/42G3ttK) which might be a good catch-up play compared to Tesla. By the way… [GM](https://ibb.co/vPwbPCs) is outperforming Tesla recently based on their developments in the EV &amp; self-driving sector.
+
+Meanwhile, [GME](https://ibb.co/bXYsj4k) had a wild day on Friday, gaining more than 50% despite being even higher as the battle between WSB &amp; the shorts continues, with this move making Citron’s Left deciding to avoid further talks about the company probably in an attempt to avoid future attention at the GameStop short squeeze. Short Squeeze has seen a big rise in terms of [search](https://ibb.co/qn51BPH) interest after these latest moves in the GameStop stock and might even put more pressure on the bears, as retail investors might run up this stock even more.
+
+So, guys, this week might bring a lot of volatility depending on many of the important events we have. Earnings seasons &amp; especially big tech results will be important to justify these high multiples most of the tech names have received, while we also have to see how the GDP comes in, as it is expected to have seen a 4% growth for the 4th quarter while the FED is under pressure to keep the money printer on and the rates low, if not, or if there is any doubt in their commitments and also some numbers come in worse than expected we might see the long-awaited correction/pullback. But I don’t think numbers or the FED are going to disappoint really, but that doesn’t exclude the possibility of the pullback… keep investing safely &amp; have some money available to buy the dips if they appear, use them as a buying opportunity, not a panic sell.
+
+So, let’s hope for a good day in the markets as the US [FUTURES](https://ibb.co/929L2rz) are pointing to a very good open, with the Nasdaq leading the way up almost 1%
+
+**Thank you everyone for reading🙏 Hope you enjoyed the content! Be sure to leave a comment down below with your opinion on the stock market! Have a great day and see you next time❗**",https://www.reddit.com/r/wallstreetbets/comments/l4nbuw/stock_market_news_for_today_pltr_gm_aapl_tsla_fb/,wallstreetbets,t5_2th52
+22,l4nfqg,"🚀🚀GameStop, Cant Stop Won’t Stop🚀🚀",0,"🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+Now accepting deposits for your reservation on the moon! Let me know what part of the moon you want and send the deposit right over to book it!! 
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+Don’t worry, all funds will be used to purchase more GME stocks!! 
+
+🚀🚀🚀🚀To the moon we freaking go!!!! 🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/l4nfqg/gamestop_cant_stop_wont_stop/,wallstreetbets,t5_2th52
+23,l4nifm,Why you should NOT be long on GME,1,"Disclaimer: to everyone who made money and is still making money, keep up the good work, making money is good and the #1 reason to live - but remember, when the trough is empty, all you little piggies are going to run to the exit door and 90% won't make it through. Can see this hitting 0 because of cult mentality but here goes:
+
+People here are projecting weird company loyalty just because their stock earned them money - they owe you nothing, stop vouching for them. And no, you haven't outsmarted the 100s of consumer analysts by thinking of new wack rebranding ideas for gamestop.
+
+All these branching out ideas like PC building workshops and DnD tables aren't a new beginning - they're a last ditch survival mechanism, like struggling when drowning. Does anyone wonder why PC building workshops don't exist? There isn't a market for them - all you social rejects and autists would rather spend a week researching online than going into a shop and talking to someone about it.
+
+DnD/Board game tables - no one is going to a mall to play DnD, they sit at home with a few beers and snacks, not turn themselves into a nerd zoo with people looking in the window at them from the mall. Board games not happening either, when first day some little shit is going to steal pieces from a game and make it unusable. Same goes for VR hubs or whatever people think of - I'm not using some sweaty VR headset some virgins used before me.
+
+They're not going to start selling shit either like keyboards or mice because people will go into the shop, try it, then get it online for $20 less - retail is dying for a reason. And no amount of watching stranger things and thinking nerds hang out at the mall playing board games with their Coca-Cola cans facing the camera is ever going to bring it back.
+
+The whole sub used get high off the idea that musk is building a Mars base, but no one here can imagine that data transfer tech isn't going improve slightly and allow us to stream games? Think what Spotify did to your CD shop, and Netflix did to blockbuster. And no one cares if you like holding a physical game, because 90% of people don't care, just like no one owns CDs or records anymore. Cloud gaming and gaming streaming is coming or is already partially here. And gamestop isn't becoming the gamestop Spotify, because xbox and PlayStation have their own subscription services with the door closed behind them on gamestop. 
+
+Even the biggest games today have freemium business models that cut out the middleman and destroy game shops revenue. Fortnite, warzone, apex, Dota, League of legends, Minecraft - all free, with big e-sports following to back it up. Kids these days nearly prepare watching gaming than playing themselves. All this stuff wobbles the tightrope that is high street retail as they struggle to compete because of overheads, running very fine margins. Gamestop aren't immune to that.
+
+And now everyone is calling Ryan Cohen Jesus because he sold a few cans of dog food when more and more people can't afford families, so buy pets, and less and less people are buying physical games. People don't stop feeding their pets when a recession hits - they do stop buying their kids games though.
+
+TL:DR - keep fighting the good fight and destroying short sellers, but if GME starts to fall off a cliff, don't tell yourself that they're restructuring for a comeback, because unless they make a mini plug&amp;play streaming console themselves and take on the big guns (Sony, Microsoft, Google), gamestop is dead and wsb will be pall🐻ers at the funeral.",https://www.reddit.com/r/wallstreetbets/comments/l4nifm/why_you_should_not_be_long_on_gme/,wallstreetbets,t5_2th52
+24,l4nlst,Citron Research be like this with GAMESTOP,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4nlst/citron_research_be_like_this_with_gamestop/,wallstreetbets,t5_2th52
+25,l4nprp,Go All in for Gamestop. See u in another galaxy,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4nprp/go_all_in_for_gamestop_see_u_in_another_galaxy/,wallstreetbets,t5_2th52
+26,l4nrcm,Gamestop 4ever,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4nrcm/gamestop_4ever/,wallstreetbets,t5_2th52
+27,l4nsro,Math Professor Scott Steiner says the numbers spell DISASTER for Gamestop shorts,1,,https://www.reddit.com/r/wallstreetbets/comments/l4nsro/math_professor_scott_steiner_says_the_numbers/,wallstreetbets,t5_2th52
+28,l4o02y,Scott Steiner math says the numbers spell DISASTER for Gamestop shorts,1,,https://www.reddit.com/r/wallstreetbets/comments/l4o02y/scott_steiner_math_says_the_numbers_spell/,wallstreetbets,t5_2th52
+29,l4o2hp,GME Pushed by retail investors (BZ Newswire),0,"BZ Newswire just confirmed that GME stock price is being pushed up by retail investors. That means two things:
+
+1.  anyone buying the stock at an elevated price is going to be holding the bag.
+2. long call options may become worthless in the wink of an eye.
+3. you're making some big investors very very happy right now.
+
+Article excerpt:
+
+""January 25, 2021 08:32 AM ET (BZ Newswire) -- News
+
+**GameStop Corp.** (NYSE:[GME](https://www.benzinga.com/stock/GME#NYSE)) shares are trading higher amid continued momentum driven by retail investor interest in the stock. Shares traded as high as $136.63 during pre-market trading.""",https://www.reddit.com/r/wallstreetbets/comments/l4o2hp/gme_pushed_by_retail_investors_bz_newswire/,wallstreetbets,t5_2th52
+30,l4o38e,"With the GME stonks going up, GameStop should invest more in the social aspect of gaming imho in the future (post COVID)",0,"Pre-covid, in some cities near me in a Western European country, I've noticed several ""nerd"" bars, café's, meeting places pop up. They usually handle some aspect of ""nerd"" life, be it superheroes/comics, be it board games, be it gaming.  
+
+In my city I LOVE going to this one gaming-bar with my friends, which has a cool young vibe, you can meet people and it's always packed with the newest consoles &amp; newest games for you to play co-op with with your friends and have a few drinks. I have a mid-sized friend group with people playing hardcore PC, casual console, casual switch etc. Not everyone has every popular game, every console, so this place is/was the best place for us to hang out from time to time, catch out, play some fun co-op games, have a few drinks till 3am etc...
+
+Pre-covid it was always packed and sometimes you even had to register the consoles time slot a few days in advance. What I'm hinting at is, while physical sales of games are down and will continue to decrease, GameStop should diversify in something like this above mentioned idea. Imagine, in every city they are in, a big ""gaming"" hub for people to meet up, talk about their games, play with people, maybe host some ""local"" tournaments (COD, rocket league, super smash bros, etc.) and have a drink.  
+
+While it would of course require an alcohol license, I do believe having a fun ""young"" bar/image could improve their status and how people view them. Right now, I believe most people view GameStop as an old dinosaur like the Kodak, waiting to die out. With new investments, importent people on their board and a more positive outlook to the future, I do believe if they'd branch out more/sideways into the social aspect, they can become the/a forefront of gamers nation/worldwide to talk about games, play the latest games, nerd out, etc...",https://www.reddit.com/r/wallstreetbets/comments/l4o38e/with_the_gme_stonks_going_up_gamestop_should/,wallstreetbets,t5_2th52
+31,l4oeze,This may be the end of WSB as we know it,0,"You wanted the media attention?  You got it with Cramer.  You got it with Citron.
+
+You wanted the gainz?  You got them on Friday and a last run today.
+
+It is only a few days more for one of you to report to the SEC that he/she lost money because they were promised gains here, and for them to investigate all of what you are doing in real life life, buying PS4s, gift cards, subscribing to Gamestop to temporarily pump company numbers.
+
+This is it, this is the end, even if WSB survives, it will be hard for credibility to survive.
+
+Mixed feelings, I hope I’m wrong WSB has been so awesome but you all went full retard.  Threatening Andrew Left’s family and just being so loud about GME. ☹️",https://www.reddit.com/r/wallstreetbets/comments/l4oeze/this_may_be_the_end_of_wsb_as_we_know_it/,wallstreetbets,t5_2th52
+32,l4omkx,DON'T YOU DARE SELL $GME! TODAY IS THE DAY TO PROVE IT WILL GO TO $1000🚀 🚀 🚀 🚀 💎 🙌,1,"Do whatever it takes to make GME go to $1,000. I just brought 500 shares and so can you! 
+
+Don't disappoint WSB redditors. Show us that you are more powerful than that shitron hedge fund.  
+
+We must give shorters taste of their own medicine. Put everything you HAVE into this war. We must defeat them at their own game.
+
+$1000 is just the beginning. GAMESTOP MUST GO TO $5000 AND BEYOND... 
+
+So please, I beg you not to press the sell button at all. Just keep buying till you can no longer do so :)
+
+Good Luck!",https://www.reddit.com/r/wallstreetbets/comments/l4omkx/dont_you_dare_sell_gme_today_is_the_day_to_prove/,wallstreetbets,t5_2th52
+33,l4otif,BUYING GAMESTOP AT OPEN to turn my whole account green again!,1,,https://www.reddit.com/r/wallstreetbets/comments/l4otif/buying_gamestop_at_open_to_turn_my_whole_account/,wallstreetbets,t5_2th52
+34,l4oukq,The /wallstreetbets TL;DR Version of the GameStop Squeeze,0," 
+
+**Short Squeeze** 
+
+1. Stock goes up 
+2. stock squeezes from Shorts 
+3. MM closes Shorts position
+4. Closing position = buying back position
+5. buying back = buying shares
+6. Buying shares = rise in stock price
+7. Stock goes up (repeat) 
+
+**Gamma Squeeze**
+
+1. Stock goes up
+2. OTM calls going into ITM = MM buying 100 shares to hedge, etc 
+3. Buying shares = rise in stock price 
+4. Stock goes up (repeat) 
+
+**FOMO** 
+
+1. Stock goes up
+2. stock gets media attention
+3. FOMO kicks in 
+4. Public buys shares 
+5. Buying shares = rise in stock price 
+6. Stock goes up (repeat) 
+
+**Economic Conditions** 
+
+1. People are unemployed
+2. People have unemployment checks / stimulus checks
+3. Stock ALWAYS goes up 
+4. Stocks = easy &amp; more money than 9-5 job
+5. Public buys shares 
+6. Buying shares = rise in stock price 
+7. Stock goes up (repeat) 
+
+**Fundamentals**
+
+1. New ownership 
+2. RC from Chewy + other board members 
+3. GME Opportunity 
+4. GME Opportunity = PC cafes, PC workshops, subscription membership like Amazon/Cosco, Esports opportunity, etc
+5. Long term value in company 
+6. Value = buy shares 
+7. Buying shares = rise in stock price 
+8. Stock goes up (repeat)
+
+Positions:
+
+50 shares @ 49.50
+
+3 Call options - Feb 19 @ 115 strike",https://www.reddit.com/r/wallstreetbets/comments/l4oukq/the_wallstreetbets_tldr_version_of_the_gamestop/,wallstreetbets,t5_2th52
+35,l4ow49,FTFY Yahoo news pre-market story.,0,"GameStop shares up 50% in pre-market as massive short squeeze forges ahead
+Ines Ferré · Markets Reporter
+
+Mon, January 25, 2021, 6:38 AM·3 min read
+
+GameStop (GME) shares are up more than 50% in pre-market as of 8:30 a.m. Eastern as a ~~massive~~ Mother of All Short Squeeze continues to send the stock higher after a ~~wild ride~~ 🚀🚀🚀 launch last week. On Friday shares of the video game retailer closed 51% higher as short-sellers and Reddit ~~users~~ retards clashed causing a massive short squeeze on the stock.
+
+A short squeeze forces those who bet against the stock to buy in order to forestall bigger losses, sending the stock price 🚀🚀🚀 much higher.
+
+On Friday veteran trader Brian Shannon warned short sell~~ers~~ing boomer 🌈🐻 buddies against trying go against a stock like GameStop when it’s up too much.
+
+“They’ll try to go in and short the stock, and then the stock rallies 10%, and they cover. And then what happens is it becomes a perpetual short squeeze machine,” Shannon told Yahoo Finance.
+
+“If you look at short interest numbers, they’re rotating extremely fast right now. It’s a game of musical chairs. If you’re involved in it, if you’re looking to short it, wait for it to break down. There’s no such thing as up too much, “ said Shannon.
+
+On Monday the stock was stripped of its only Outperform rating by Telsey Advisory Group. Analyst Joseph Feldman double-downgraded the stock to Underperform with a price target of $33 — currently the highest street price prediction.
+
+The lowest price target on the stock is $3.50 by Credit Suisse analyst Seth Sigman. GameStop shares now have 4 holds and 4 sell ratings.
+
+The story behind last week’s massive spike appears to have started in response to short seller Citron Research’s recent prediction that shares of the video game retailer will drop to $20 a piece. Last Tuesday Shi~~Ci~~tron’s managing partner Andrew ""now no money"" Left announced he would list five reasons why the shares will plunge.
+
+Reddit users dubbed WallStreetBets (WSB), a sub-community of smooth-brain autists on the message board platform, pushed back on ""no money"" Left’s call and apparently helped create a Mother of All Short Squeeze ~~massive short squeeze~~ on the stock.
+
+BTW, Yahoo keeps talking about this on their live-stream right now hahaahahahaha",https://www.reddit.com/r/wallstreetbets/comments/l4ow49/ftfy_yahoo_news_premarket_story/,wallstreetbets,t5_2th52
+36,l4ozbo,$GME TO MARS ==&gt; $1000 🚀🚀🚀🚀🚀🚀🚀🚀💎🖐💎🖐💎🖐DON'T YOU DARE SELL $GME!,1," Do whatever it takes to make GME go to $1,000.
+
+Don't disappoint WSB redditors. Show us that you are more powerful than that shitron hedge fund.
+
+We must give shorters taste of their own medicine. Put everything you HAVE into this war. We must defeat them at their own game.
+
+$1000 is just the beginning. GAMESTOP MUST GO TO $5000 AND BEYOND...
+
+So please, I beg you not to press the sell button at all. Just keep buying till you can no longer do so :)
+
+TODAY IS THE DAY TO PROVE IT WILL GO TO $1000🚀 🚀 🚀 🚀 💎 🙌
+
+Good Luck!",https://www.reddit.com/r/wallstreetbets/comments/l4ozbo/gme_to_mars_1000_dont_you_dare_sell_gme/,wallstreetbets,t5_2th52
+37,l4p1xc,Reddit’s Rocket-Ship Stock Picks Like GameStop Blast Off Again,0,,https://www.reddit.com/r/wallstreetbets/comments/l4p1xc/reddits_rocketship_stock_picks_like_gamestop/,wallstreetbets,t5_2th52
+38,l4p3lb,GAMESTOP JUST TRIGGERED ANOTHER FUCKING BREAKER HOLY SHIT. GME TO THE MOON BOIS🚀🚀🚀🚀🚀🚀🚀,0,,https://www.reddit.com/r/wallstreetbets/comments/l4p3lb/gamestop_just_triggered_another_fucking_breaker/,wallstreetbets,t5_2th52
+39,l4p3ub,II lost 10 dollars from my life savings because I love gamestop! Its like im tiping them because I feel bad that they have to sell Fortnite toys :),1,,https://www.reddit.com/r/wallstreetbets/comments/l4p3ub/ii_lost_10_dollars_from_my_life_savings_because_i/,wallstreetbets,t5_2th52
+40,l4p3x1,Why is GameStop blowing up?,0,Why? Isn’t it a dying business? I’m new so I’m curious. Should I invest or is it too late?,https://www.reddit.com/r/wallstreetbets/comments/l4p3x1/why_is_gamestop_blowing_up/,wallstreetbets,t5_2th52
+41,l4p6fd,Please fucking help me,1,What the fuck do i do to get into this shit? i’m sitting on several grand right now but have no clue how to invest. but planning on throwing it into gamestop stock LOL. any help? thanks,https://www.reddit.com/r/wallstreetbets/comments/l4p6fd/please_fucking_help_me/,wallstreetbets,t5_2th52
+42,l4p89a,In the army,0,"Been on a coffee drip IV reading all DD on GME, squeeze, shorts etc since finding this sub. So I’m hooked. I’m in the fight with 10 stonks (doing what I can). They’ll have to remove them from my cold dead hands. Holding to infinity and beyond. Any retards help another retard with this update that just landed on my feed: GameStop shares Halted on Circuit Breaker Downside. Thanks",https://www.reddit.com/r/wallstreetbets/comments/l4p89a/in_the_army/,wallstreetbets,t5_2th52
+43,l4pas3,how often do rises such as GME happen?,0,i think it’s crazy that GME went from $18 to $100 in a month. do things like that happen often? is it this subreddit causing it to happen? or did gamestop come out with some news?,https://www.reddit.com/r/wallstreetbets/comments/l4pas3/how_often_do_rises_such_as_gme_happen/,wallstreetbets,t5_2th52
+44,l4pmi7,"GameStop Continues Meltup, Leaving Price Targets in Shambles",0,,https://www.reddit.com/r/wallstreetbets/comments/l4pmi7/gamestop_continues_meltup_leaving_price_targets/,wallstreetbets,t5_2th52
+45,l4pqo9,I'M GOING TO MUSCLE $CCL TO THE MOON 🌝,1,"Taking inspiration from gamestop, I will personally be staring at $ccl stock chart &amp; muscling it to the moon",https://www.reddit.com/r/wallstreetbets/comments/l4pqo9/im_going_to_muscle_ccl_to_the_moon/,wallstreetbets,t5_2th52
+46,l4py0h,Just a friendly reminder come tax season to claim your capital gains... don’t need any retards gambling on GameStop somehow ending up in prison and not knowing how they got there. Keep holding (unlike me who still am not sure what the fuck is going on.,0,Don’t go to prison,https://www.reddit.com/r/wallstreetbets/comments/l4py0h/just_a_friendly_reminder_come_tax_season_to_claim/,wallstreetbets,t5_2th52
+47,l4q0jx,Cant stop. Wont stop. GAMESTOP 🚀🚀🚀🚀🚀🚀,1,,https://www.reddit.com/r/wallstreetbets/comments/l4q0jx/cant_stop_wont_stop_gamestop/,wallstreetbets,t5_2th52
+48,l4q3zl,GAMESTOP SHORT SQUEEZE! Check AMC!,0,AMC should be moving up for the next 2 - 6 weeks in my opinion. Short squeeze could come! Good luck! Make that money people!!,https://www.reddit.com/r/wallstreetbets/comments/l4q3zl/gamestop_short_squeeze_check_amc/,wallstreetbets,t5_2th52
+49,l4qabj,WTF IS GOING ON WITH GAMESTOP,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4qabj/wtf_is_going_on_with_gamestop/,wallstreetbets,t5_2th52
+50,l4qdqj,WHERE WE ENDING UP ON GAMESTOP TODAY?,0,this shit rising higher than the methane emissions rn,https://www.reddit.com/r/wallstreetbets/comments/l4qdqj/where_we_ending_up_on_gamestop_today/,wallstreetbets,t5_2th52
+51,l4qe3e,What do we think the price of GME will be at the end of the week?,0,"We're all in on gamestop, it's doing excellent today too, only going up from here.
+
+But what do we think it'll be by the end of the week? So far seems like we'll be at 150 by the end of today alone",https://www.reddit.com/r/wallstreetbets/comments/l4qe3e/what_do_we_think_the_price_of_gme_will_be_at_the/,wallstreetbets,t5_2th52
+52,l4qfu9,WE CAN BUY OUT GAMESTOP,1,If all 2.1 million of us autists buy $5600 worth of GME we buy all 130 million shares that are on the market. GME TO THE MOON!!! 🚀🚀🚀,https://www.reddit.com/r/wallstreetbets/comments/l4qfu9/we_can_buy_out_gamestop/,wallstreetbets,t5_2th52
+53,l4qius,$Zom (Zomedica) and Sabby Management,1,Sabby has been barcoding this stock for a couple weeks now.  It's been stuck between $1.05 and $1.06.  Anyone willing to pump Zomedica up like they have been with GameStop? (I own 1100 shares of Zomedica),https://www.reddit.com/r/wallstreetbets/comments/l4qius/zom_zomedica_and_sabby_management/,wallstreetbets,t5_2th52
+54,l4qj12,French Revolution on Wall Street. $GME,0,"""GameStop soars as day traders take on Short Sellers""
+I read this and it brought tears to my eyes. They say it's impossible to beat the banks but we are too retarded to comprehend that so we did it anyways.",https://www.reddit.com/r/wallstreetbets/comments/l4qj12/french_revolution_on_wall_street_gme/,wallstreetbets,t5_2th52
+55,l4qlv3,If you try to sell these GameStop shares,1,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4qlv3/if_you_try_to_sell_these_gamestop_shares/,wallstreetbets,t5_2th52
+56,l4qn7d,"HEAR at breakout point, NOK jump, BNGO rocket",0,"All of these are dying companies, where as BNGO is speculative\[unapproved pharma\]
+
+**Nokia**
+
+**Turtle Beach**
+
+**Bionano Genomics**
+
+Other note **Bed Bath Beyond**, been rocketing since a youtuber mentioned it, unlike other stonks their financials are actually good, so if there's a crash you have protection.
+
+I watch listed GameStop back when it was $5, but too scared to buy, as the company was failing. But after seeing the recent rocket I'm going to start buying everything... I normally just watchlist for fundamentals as I'm scared of a crash \[my grandpa road weed hype in Canada to 200x and road it all the way backdown... to broke, because the run up gets addicting, you get complacent, and instead of getting out of the industry try to move into the dip...\]",https://www.reddit.com/r/wallstreetbets/comments/l4qn7d/hear_at_breakout_point_nok_jump_bngo_rocket/,wallstreetbets,t5_2th52
+57,l4qnpa,Fellow autists....we done did it,0,"https://www.bloomberg.com/news/articles/2021-01-25/reddit-s-rocket-ship-stock-picks-like-gamestop-blast-off-again
+
+https://www.businessinsider.com/gamestop-stock-short-seller-squeeze-losses-reddit-traders-citron-gme-2021-1",https://www.reddit.com/r/wallstreetbets/comments/l4qnpa/fellow_autistswe_done_did_it/,wallstreetbets,t5_2th52
+58,l4qoq8,Reddit’s Rocket-Ship Stock Picks Like GameStop Blast Off Again,0,,https://www.reddit.com/r/wallstreetbets/comments/l4qoq8/reddits_rocketship_stock_picks_like_gamestop/,wallstreetbets,t5_2th52
+59,l4qorw,"""Wall Street Bets Is Still Extremely Wrong On GameStop"" Boomers are still crying.",0,,https://www.reddit.com/r/wallstreetbets/comments/l4qorw/wall_street_bets_is_still_extremely_wrong_on/,wallstreetbets,t5_2th52
+60,l4qr09,Day Traders versus Short Sellers over GME?,0,  https://www.bloomberg.com/news/videos/2021-01-25/gamestop-soars-as-day-traders-take-on-short-sellers-video,https://www.reddit.com/r/wallstreetbets/comments/l4qr09/day_traders_versus_short_sellers_over_gme/,wallstreetbets,t5_2th52
+61,l4qr30,Day Traders versus Short Sellers over GME?,0,  https://www.bloomberg.com/news/videos/2021-01-25/gamestop-soars-as-day-traders-take-on-short-sellers-video,https://www.reddit.com/r/wallstreetbets/comments/l4qr30/day_traders_versus_short_sellers_over_gme/,wallstreetbets,t5_2th52
+62,l4qrcl,Day Traders versus Short Sellers over GME?,0,  https://www.bloomberg.com/news/videos/2021-01-25/gamestop-soars-as-day-traders-take-on-short-sellers-video,https://www.reddit.com/r/wallstreetbets/comments/l4qrcl/day_traders_versus_short_sellers_over_gme/,wallstreetbets,t5_2th52
+63,l4qu4h,Bloomberg is going gaga about us bois!,0,[https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon),https://www.reddit.com/r/wallstreetbets/comments/l4qu4h/bloomberg_is_going_gaga_about_us_bois/,wallstreetbets,t5_2th52
+64,l4qvga,GME Gang - Bloomberg is going gaga about us!,0,[https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon),https://www.reddit.com/r/wallstreetbets/comments/l4qvga/gme_gang_bloomberg_is_going_gaga_about_us/,wallstreetbets,t5_2th52
+65,l4qvm4,"GME PROJECTION ""GameStop can't stop going up"" -Financial Times",0,,https://www.reddit.com/r/wallstreetbets/comments/l4qvm4/gme_projection_gamestop_cant_stop_going_up/,wallstreetbets,t5_2th52
+66,l4qvoe,BB TO THE MOON,1,You saw what happened with Gamestop. Do you really want to miss this rocket to the moon???,https://www.reddit.com/r/wallstreetbets/comments/l4qvoe/bb_to_the_moon/,wallstreetbets,t5_2th52
+67,l4qvsb,What happened to GameStop to $1000 then😂,0,,https://www.reddit.com/r/wallstreetbets/comments/l4qvsb/what_happened_to_gamestop_to_1000_then/,wallstreetbets,t5_2th52
+68,l4qxq7,Gamestop not done yet,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4qxq7/gamestop_not_done_yet/,wallstreetbets,t5_2th52
+69,l4r7d6,GameStop right now,0,,https://www.reddit.com/r/wallstreetbets/comments/l4r7d6/gamestop_right_now/,wallstreetbets,t5_2th52
+70,l4r7jb,Can we get GameStop to $1000 before Tesla?,0,,https://www.reddit.com/r/wallstreetbets/comments/l4r7jb/can_we_get_gamestop_to_1000_before_tesla/,wallstreetbets,t5_2th52
+71,l4r9ka,NYSE RESUMED GAMESTOP CL A,0,"Here we go autist, trading is resumed! Time to push it up even further than ever!!!",https://www.reddit.com/r/wallstreetbets/comments/l4r9ka/nyse_resumed_gamestop_cl_a/,wallstreetbets,t5_2th52
+72,l4rbhl,So how does this work,0,I keep hearing about GameStop and WallStreetBets,https://www.reddit.com/r/wallstreetbets/comments/l4rbhl/so_how_does_this_work/,wallstreetbets,t5_2th52
+73,l4rc2s,Gamestop,1,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4rc2s/gamestop/,wallstreetbets,t5_2th52
+74,l4rerb,Gamestop? Blackberry? Nokia?!,0,,https://www.reddit.com/r/wallstreetbets/comments/l4rerb/gamestop_blackberry_nokia/,wallstreetbets,t5_2th52
+75,l4rev9,Stop selling the market is dropping across-the-board not just GameStop,0,It’s not just GameStop that lost a bunch of gain By the debt so you don’t FOMO at 200$,https://www.reddit.com/r/wallstreetbets/comments/l4rev9/stop_selling_the_market_is_dropping/,wallstreetbets,t5_2th52
+76,l4rf9o,GameStop will acquire Amazon!,1,https://media1.tenor.com/images/942447626743e75726156176963b6762/tenor.gif?itemid=10465865,https://www.reddit.com/r/wallstreetbets/comments/l4rf9o/gamestop_will_acquire_amazon/,wallstreetbets,t5_2th52
+77,l4rgao,Why GameStop BlackBerry and AMC?,0,"As far as I can see all dead soon.
+What is the hype about?
+All the news on google are around reditters betting on those?",https://www.reddit.com/r/wallstreetbets/comments/l4rgao/why_gamestop_blackberry_and_amc/,wallstreetbets,t5_2th52
+78,l4ribx,How WallStreetBets Pushed GameStop Shares to the Moon,1,,https://www.reddit.com/r/wallstreetbets/comments/l4ribx/how_wallstreetbets_pushed_gamestop_shares_to_the/,wallstreetbets,t5_2th52
+79,l4rktx,GAMESTOP IS VOLATILE RN... SO WHAT?!,0,"Everyone that bought in should know it will be a bumpy ride the next week(s). If you belive in the profitability just hold.
+
+Plenty of reasons for it to hit $1000!!! SHORTS ArE stILL LOSING!!
+
+JUST HOLD TARDS!!!
+
+(AM RETARD MYSELF AND OWN GME STOCK, not investment advice)",https://www.reddit.com/r/wallstreetbets/comments/l4rktx/gamestop_is_volatile_rn_so_what/,wallstreetbets,t5_2th52
+80,l4rne0,I don’t know what’s better - GME gains or reading Boomer articles trying to explain what’s happening.,0,"My favorite quote from Bloomberg. https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon
+
+“Around this time, a Reddit handle surfaced that has become the de facto champion of the WSB bull case on GME, a user going by DeepF-----gValue -- name edited for content -- brandishing his “tendies.” (For the uninitiated, tendies are WallStreetBets slang for gains; the etymology of the word comes from chicken tenders, widely regarded as a dish suitable for kings and financial oligarchs.)”",https://www.reddit.com/r/wallstreetbets/comments/l4rne0/i_dont_know_whats_better_gme_gains_or_reading/,wallstreetbets,t5_2th52
+81,l4rnkj,"JUST PUT MY MORTGAGE LOAN INTO GAMESTOP, FREE TENDIES?",1,,https://www.reddit.com/r/wallstreetbets/comments/l4rnkj/just_put_my_mortgage_loan_into_gamestop_free/,wallstreetbets,t5_2th52
+82,l4ro4w,I have never seen anything like what you guys have done with Gamestop. Look at SRNE and CVM,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4ro4w/i_have_never_seen_anything_like_what_you_guys/,wallstreetbets,t5_2th52
+83,l4rpp6,Gamestop HOLD ON WITH ALL YOU GOT YOU WEAK STOMACH SISSY BOYZ,0,Don't let the engine rumble scare you,https://www.reddit.com/r/wallstreetbets/comments/l4rpp6/gamestop_hold_on_with_all_you_got_you_weak/,wallstreetbets,t5_2th52
+84,l4rv8c,"As someone who is new too stocks, what the fuck is happening to « GME »?",0,"But like is GME GameStop? Are they performing that well? They’re « only » up 48% not like a thousand. Does Reddit have something to do in this? And if they do what’s the point of it all? 
+
+
+I’m very confused.",https://www.reddit.com/r/wallstreetbets/comments/l4rv8c/as_someone_who_is_new_too_stocks_what_the_fuck_is/,wallstreetbets,t5_2th52
+85,l4rzjc,It's Literally Reddit,0,This made my face hurt from smiling [https://ca.finance.yahoo.com/video/gamestop-blackberry-shares-soar-155919507.html](https://ca.finance.yahoo.com/video/gamestop-blackberry-shares-soar-155919507.html),https://www.reddit.com/r/wallstreetbets/comments/l4rzjc/its_literally_reddit/,wallstreetbets,t5_2th52
+86,l4s3vs,Selling these GameStop shares,1,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4s3vs/selling_these_gamestop_shares/,wallstreetbets,t5_2th52
+87,l4s4p7,What to know about trading halts,0,"As all of you autists know, GME has faced multiple trading halts on Friday and has experienced FIVE halts today. This has spread too much FUD amoung us retail traders, and I would like to add some more info so people can HOLD
+
+What Gamestop is experiencing is called LULD (limit up limit down) halts, which occur because the price moved too much within a short period of time. It has to do with 5 minute average VWAP or something I'm too retarded to understand. You can check the NYSE detailed rules and calculations [here](https://www.nyse.com/products/etp-limit-up-limit-down). Basically, if there is a giant red or green dildo doing 15% within minutes, it will get halted.
+
+There are other types of halts, called T1 halts, when the company asks the exchange to halt trading so they can release important news. If this happened to GME, I would be more concerned. It could be boomer Sherman screwing us over or daddy Cohen announcing a bloody COVID vaccine or whatever. Otherwise, if GME experiences LULD halts due to high volatility, you need to HOLD because nothing about the fundamental situation has changed. Short interest is still high, they can't cover, bears r fuk.
+
+On today's (monday jan 25) halts, I would argue it's actually GOOD for us. Just look at the graph at when the halts occured:
+
+*Processing img x8k5tpigeid61...*
+
+ALL of these happened after a big red candle. Now I don't know what caused that big drop, but they certainly seem suspicious to me. The institutional shorts and MMs want to trigger a panic sell among us retail so either they dont get squeezed or the calls they wrote dont expire ITM. HOWEVER, whatever shenanigans they did caused gme to drop too much thus leading to a halt. This 5 minute break gives the idiot paper hands to repent their sins and realize that selling will screw us all. So putting a cap on the momentum arguably is good because it prevents a big panick sell.
+
+TLDR: Ultimately, LULD halts do not change the fundamental situation of high short interest and short squeeze. The overall momentum still favours us bulls. HOLD through the halts, DO NOT PAPER HAND
+
+Positions: tons of weekly 115c FDs, I am retarted
+
+Obligatory not your financial advisor disclaimer, stock and options trading carries high risk and you may lose your investment. But wtf if you're here u know your money is already as good as gone",https://www.reddit.com/r/wallstreetbets/comments/l4s4p7/what_to_know_about_trading_halts/,wallstreetbets,t5_2th52
+88,l4s6um,"Stop Diversifying, Stick To One Stock!",0,"Everyone’s posting “The Next GameStop”. GME ISN’T DONE!
+
+Stop selling and ride it out. When the wave is over, we should vote as a community on why to go after next. No reason we all can’t become MILLIONAIRES with some unity.",https://www.reddit.com/r/wallstreetbets/comments/l4s6um/stop_diversifying_stick_to_one_stock/,wallstreetbets,t5_2th52
+89,l4s70e,How WallStreetBets Pushed GameStop Shares to the Moon,0,[https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon),https://www.reddit.com/r/wallstreetbets/comments/l4s70e/how_wallstreetbets_pushed_gamestop_shares_to_the/,wallstreetbets,t5_2th52
+90,l4s7sb,please keep buying GME,1,"I'm down so much this year, lost thousands. GME is going to be my last possible YOLO. PLEASE DON'T LET ME BE THE ONLY FUCKING PERSON IN THE WORLD TO GO BANKRUPT BECAUSE OF GAMESTOP",https://www.reddit.com/r/wallstreetbets/comments/l4s7sb/please_keep_buying_gme/,wallstreetbets,t5_2th52
+91,l4s7wu,What’s going on with GME??,1,So are you guys just giving up on GameStop or what? I’m balls deep into this and my anxiety is sky rocketing. I need reassurance! This going to the moon still? Or did the rocket crash?,https://www.reddit.com/r/wallstreetbets/comments/l4s7wu/whats_going_on_with_gme/,wallstreetbets,t5_2th52
+92,l4sctm,"David Wagner of Aptus Capital Advisorshates GME “I would have bet my first-born male that GameStop would not be trading at the levels it’s trading at now,”",0,,https://www.reddit.com/r/wallstreetbets/comments/l4sctm/david_wagner_of_aptus_capital_advisorshates_gme_i/,wallstreetbets,t5_2th52
+93,l4sd64,Somebody tell me why tf every single GameStop post is getting taken down,0,Wtf is going on we already have to deal with these fucking halts and now the mods are deleting everything,https://www.reddit.com/r/wallstreetbets/comments/l4sd64/somebody_tell_me_why_tf_every_single_gamestop/,wallstreetbets,t5_2th52
+94,l4sjb9,Is AMC the next GameStop? Is there potential?,0,,https://www.reddit.com/r/wallstreetbets/comments/l4sjb9/is_amc_the_next_gamestop_is_there_potential/,wallstreetbets,t5_2th52
+95,l4sjxs,*GAMESTOP LATEST HALT TRIGGERED AFTER PARING DAY'S GAIN TO 6.9%,0,,https://www.reddit.com/r/wallstreetbets/comments/l4sjxs/gamestop_latest_halt_triggered_after_paring_days/,wallstreetbets,t5_2th52
+96,l4sk9y,Another Gamestop success here. Jump on it while you can.💪💪,0,,https://www.reddit.com/r/wallstreetbets/comments/l4sk9y/another_gamestop_success_here_jump_on_it_while/,wallstreetbets,t5_2th52
+97,l4skez,Leute aus Germany gibt Gas lasst uns Blackberry nach oben Katapultieren wie GameStop!!🚀🚀🚀,0,[removed],https://www.reddit.com/r/wallstreetbets/comments/l4skez/leute_aus_germany_gibt_gas_lasst_uns_blackberry/,wallstreetbets,t5_2th52
+98,l4slbe,You crazy sons of bitches... it’s only fitting that it’s GameStop 😂🚀 we love to see it! $fuck the shorts!!!!,0,,https://www.reddit.com/r/wallstreetbets/comments/l4slbe/you_crazy_sons_of_bitches_its_only_fitting_that/,wallstreetbets,t5_2th52
+99,l4ssqr,Let’s not forget what brought about gme,0,"With all the media attention and new idiots running around here let’s not forget that the reason game is taking off is because a lot of us here are betting on Ryan Cohen making this the Amazon of video games. 
+
+Yes the short interest that was involved here is an added bonus but all these media boomers and people saying that the only reason game is taking off is because of retail investors memeing it is just IMO them bein annoyed that the common folk saw something before they did. 
+
+As it’s been repeated here multiple times already “we” did not do anything. There is no “we”. 
+
+Everyone freaking out about the squeeze is completely selling short (see what I did there) the fact that big dick Cohen build chewy into a company with a 40+ billion market cap company in a space that previously had no company like it (online pet store). 
+
+The big thing here is that if he’s able to recreate this success and transition GameStop into a similar business my bet is that he finds similar success if not more because GameStop already has infrastructure set up.
+
+TL;DR: Hold the line retards don’t be blinded just by the squeeze. Ryan Cohen is still steering the ship and all this media attention is making it seem like GameStop sucks, you shouldn’t be betting on what the company is now, but rather what it has the potential to become 🚀🚀🚀🚀🚀🚀",https://www.reddit.com/r/wallstreetbets/comments/l4ssqr/lets_not_forget_what_brought_about_gme/,wallstreetbets,t5_2th52
