@@ -4,6 +4,7 @@ tasks:
   - command: sudo docker-up
     name: Docker daemon
   - command: docker
+  - command: pip insatll numpy
 
 vscode:
   extensions:
