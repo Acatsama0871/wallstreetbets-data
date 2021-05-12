@@ -4,11 +4,7 @@ tasks:
   - command: sudo docker-up
     name: Docker daemon
   - command: docker
-  - command: pip install numpy
-
-vscode:
-  extensions:
-    - ms-azuretools.vscode-docker@1.8.1:xuHtLS23Q5czFwYH7grcCQ==
+  - command: python3 -m pip install --upgrade pip
 
 github:
   prebuilds:
@@ -18,3 +14,21 @@ github:
     pullRequestsFromForks: true
     addCheck: true
     addComment: true
+
+vscode:
+  extensions:
+    - ms-python.python
+    - GitHub.vscode-pull-request-github
+    - eamodio.gitlens
+    - CoenraadS.bracket-pair-colorizer-2
+    - aliariff.auto-add-brackets
+    - phplasma.csv-to-table
+    - jamesmaj.easy-icons
+    - oderwat.indent-rainbow
+    - bierner.markdown-preview-github-styles
+    - davidanson.vscode-markdownlint
+    - whizkydee.material-palenight-theme
+    - christian-kohler.path-intellisense
+    - njpwerner.autodocstring
+    - kevinrose.vsc-python-indent
+    - isualstudioexptteam.vscodeintellicode
