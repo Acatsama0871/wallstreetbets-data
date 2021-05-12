@@ -5,7 +5,7 @@ tasks:
     name: Docker daemon
   - command: docker
   - command: python3 -m pip install --upgrade pip
-  - command: pip3 install -r requirements.txt
+  - command: pip3 install -r requirement.txt
 
 github:
   prebuilds:
